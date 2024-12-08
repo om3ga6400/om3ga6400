@@ -11,7 +11,7 @@
 
 <div align=center>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4750&pause=750&color=20C20E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+om3ga!%F0%9F%91%8B;I+mainly+focus+on+Javascript%2C+HTML+and+CSS.%F0%9F%92%BB;I+am+completely+self-taught.%F0%9F%93%96;I've+been+coding+for+almost+3+years!%E2%8F%B0;Thanks+for+visiting+my+profile!%F0%9F%98%8A">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=550&lines=Hi%2C+I'm+om3ga!;I+mainly+focus+on+Javascript%2C+HTML%2C+and+CSS.;I've+been+attempting+to+code+for+3+years.;I'm+entirely+self-taught.;I+can+be+a+little+slow+at+times.;Thanks+for+visiting+my+profile!">
   </a>
 </div>
 
