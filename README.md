@@ -14,6 +14,21 @@
   </a>
 </div>
 
+## 🎶 Currently listening to:
+
+<div align=center>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317acg6cjueru456j7s6tsnejlle&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</div>
+
+## 📜 Programming Quote
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" height="200">
+  </a>
+</div>
+
 ## 🔥 Streak Stats
 
 <div align=center>
@@ -41,31 +56,8 @@
   </a>
 </div>
 
-## 📜 Programming Quote
-
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" height="200">
-  </a>
-</div>
-
 ## 📈 Activity Graph
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true">
 </a>
-
-<!--
-**OM3GA6400/om3ga6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: It is impossible for me to beat Levon at Funky Friday
--->
