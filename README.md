@@ -1,7 +1,7 @@
 <h1 align=center>Hi, I'm om3ga</h1>
 
 <p align=center>
-  <img src="https://komarev.com/ghpvc/?username=om3ga6400">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/om3ga6400">
   <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logoColor=yellow&logo=github">
   <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github&">
   <img src="https://img.shields.io/github/last-commit/om3ga6400/om3ga6400?style=fflat-square&label=Profile%20update">
