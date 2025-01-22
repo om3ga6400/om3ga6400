@@ -1,18 +1,20 @@
-<h1 align=center>Hi, I'm om3ga</h1>
+<div align="center">
+  <img src="assets/om3ga6400.svg" width="300">
+</div>
 
-<p align=center>
-  <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logoColor=yellow&logo=github">
-  <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github&">
-  <img src="https://img.shields.io/github/last-commit/om3ga6400/om3ga6400?style=fflat-square&label=Profile%20update">
+<h1 align=center>
+  <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logo=github">
+  <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github">
+  <img src="https://img.shields.io/github/last-commit/om3ga6400/om3ga6400?style=fflat-square&label=last%20profile%20update">
   <img src="https://img.shields.io/github/commit-activity/m/om3ga6400/om3ga6400">
-  <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=flat">
-</p>
+  <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=fflat-square">
+</h1>
 
 <div align="center">
   <img src="https://count.getloli.com/@om3ga6400?name=om3ga6400&theme=original-new">
 </div>
 
-## 🎶 Currently listening to:
+## 🎶 Spotify Activity:
 
 <div align=center>
   <a href="https://github.com/kittinan/spotify-github-profile">
