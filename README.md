@@ -8,10 +8,8 @@
   <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=flat">
 </p>
 
-<div align=center>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=550&lines=Hi%2C+I'm+om3ga!;I+mainly+focus+on+Javascript%2C+HTML%2C+and+CSS.;I've+been+trying+to+code+for+3+years.;I'm+entirely+self-taught.;Thanks+for+visiting+my+profile!">
-  </a>
+<div align="center">
+  <img src="https://count.getloli.com/@om3ga6400?name=om3ga6400&theme=rule34&scale=1.25">
 </div>
 
 ## 🎶 Currently listening to:
