@@ -50,10 +50,10 @@
 
 <div align="center">
   <a href="https://github.com/om3ga6400/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true">
+    <img src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" height=200 align="center">
   </a>
   <a href="https://github.com/om3ga6400/github-readme-stats">
-    <img height=200 width=320 align="center" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&layout=compact&langs_count=8&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height=200 width=320 align="center">
   </a>
 </div>
 
