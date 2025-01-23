@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logo=github">
     <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github">
     <img src="https://img.shields.io/github/last-commit/om3ga6400/om3ga6400?style=fflat-square&label=last%20profile%20update">
+    <img src="https://img.shields.io/github/license/om3ga6400/om3ga6400">
   </a>
   <a href="https://github.com/gitlimes/discord-md-badge/">
     <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=fflat-square">
