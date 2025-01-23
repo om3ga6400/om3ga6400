@@ -39,7 +39,7 @@
 
 <h3 align=center>
   <a href="https://github.com/om3ga6400/github-readme-streak-stats/">
-    <img src="https://github-readme-streak-stats-om3ga6400.vercel.app/?user=om3ga6400&theme=github-dark-blue&hide_border=true">
+    <img src="https://github-readme-streak-stats-om3ga6400.vercel.app/?user=om3ga6400&theme=github-dark-blue&hide_border=true&date_format=j/n/Y">
   </a>
 </h3>
 
@@ -55,8 +55,8 @@
 
 <h3 align="center">
   <a href="https://github.com/om3ga6400/github-readme-stats/">
-    <img src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" height=200 align="center">
-    <img src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height=200 width=320 align="center">
+    <img src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" height=200>
+    <img src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&theme=github_dark&layout=compact&langs_count=8&hide_border=true" height=200 width=320>
   </a>
 </h3>
 
