@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://text-to-svg.com/">
-    <img src="assets/om3ga6400.svg" width="300">
+    <img width="300px" src="assets/om3ga6400.svg">
   </a>
 </h3>
 
@@ -34,7 +34,7 @@
 
 <h3 align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes/">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" height="200"> 
+    <img height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"> 
   </a>
 </h3>
 
@@ -58,8 +58,8 @@
 
 <h3 align="center">
   <a href="https://github.com/om3ga6400/github-readme-stats/">
-    <img src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" height=200>
-    <img src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&theme=github_dark&layout=compact&langs_count=8&hide_border=true" height=200 width=320>
+    <img height="175px" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true" >
+    <img height="175px" width=400 src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&layout=compact&langs_count=8">
   </a>
 </h3>
 
