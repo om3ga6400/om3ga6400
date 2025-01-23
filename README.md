@@ -34,7 +34,7 @@
 
 <h3 align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes/">
-    <img height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"> <-- remove the hight="200px" when it get fixed -->
+    <img height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"> <!-- remove the hight="200px" when it get fixed -->
   </a>
 </h3>
 
