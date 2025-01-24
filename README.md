@@ -14,7 +14,7 @@
   <a href="https://github.com/om3ga6400?tab=followers">
     <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github">
   </a>
-  <a href="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/LICENSE/">
+  <a href="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/LICENSE">
     <img src="https://img.shields.io/github/license/om3ga6400/om3ga6400">
   </a>
   <a href="https://github.com/gitlimes/discord-md-badge/">
