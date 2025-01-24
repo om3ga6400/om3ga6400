@@ -58,7 +58,7 @@
 
 <h3 align="center">
   <a href="https://github.com/om3ga6400/github-readme-stats/">
-    <img height="175vw" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&rank_icon=percentile">
+    <img height="175vw" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&rank_icon=percentile&include_all_commits+true">
     <img height="175vw" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&layout=donut">
   </a>
 </h3>
