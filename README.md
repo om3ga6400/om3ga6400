@@ -73,3 +73,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true&hide_title=true">
   </a>
 </h3>
+
+# 🐍 Snk
+
+<h3 align="center">
+  <a href="https://github.com/Platane/snk">
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  </a>
+</h3>
