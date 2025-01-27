@@ -1,6 +1,6 @@
 <h3 align="center">
-  <a href="https://text-to-svg.com/">
-    <img width="400vw" src="assets/om3ga6400.svg">
+  <a href="https://github.com/vaaski/vaaski">
+    <img src="assets/om3ga.svg">
   </a>
 </h3>
 
