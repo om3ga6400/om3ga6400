@@ -131,11 +131,6 @@
     <animate attributeName="cy" values="630; 0" dur="33.28s" begin="4.77s" repeatCount="indefinite"/>
     <animate attributeName="cx" values="803.24; 954.61" dur="33.28s" begin="4.77s" repeatCount="indefinite"/>
   </circle>
-  <svg width="312" height="186" x="444" y="222" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 94.501 94.501">
-    <path fill="#fff" transform-origin="47.25 47.25" d="m34.07 78.892-2.623-2.155c-3.064-2.513-13.056-11.978-13.056-28.296 0-17.932 11.818-29.52 30.112-29.52 17.839 0 28.922 10.948 28.922 28.573 0 16.471-9.248 25.965-13.226 29.284l-2.571 2.149v11.014h32.873V75.582H83.936c5.209-8.365 7.848-17.799 7.848-28.088 0-25.68-17.393-42.934-43.279-42.934-26.18.001-44.464 18.046-44.464 43.88 0 9.521 2.705 19.052 7.663 27.142H0v14.359h34.071z">
-      <animateTransform attributeName="transform" from="0" to="1" begin="0s" dur="2.5s" fill="freeze" type="scale" calcMode="spline" keySplines="0.16, 1, 0.3, 1" keyTimes="0;1"/>
-    </path>
-  </svg>
   <defs>
     <radialGradient id="b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(665.50042 186.99982 -151.31 538.48643 325.5 680.5)">
       <stop stop-color="#00FFE0" stop-opacity=".43"/>
