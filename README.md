@@ -64,24 +64,3 @@
     <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-contribution-grid-snake-dark.svg">
   </a>
 </h3>
-
-<div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://octo-ring.com/">
-            <img width="99%" align="top" src="https://octo-ring.com/static/img/widget/top.png">
-          </a>
-          <br>
-          <a href="https://octo-ring.com/p/2659170494/prev">
-            <img width="33%" align="top" src="https://octo-ring.com/static/img/widget/prev.png"></a><a href="https://octo-ring.com/p/2659170494/random"><img width="33%" align="top" src="https://octo-ring.com/static/img/widget/random.png"></a><a href="https://octo-ring.com/p/2659170494/next"><img width="33%" align="top" src="https://octo-ring.com/static/img/widget/next.png"></a>
-          <br>
-          <a href="https://octo-ring.com/">
-            <img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" align="top">
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
