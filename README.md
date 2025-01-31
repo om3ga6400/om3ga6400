@@ -33,14 +33,6 @@
   </a>
 </h3>
 
-## 📜 Programming Quote
-
-<h3 align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes/">
-    <img height="200vw" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"> <!-- remove the hight="200vw" when it get fixed -->
-  </a>
-</h3>
-
 ## 🔥 Streak Stats
 
 <h3 align=center>
@@ -54,15 +46,6 @@
 <h3 align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy/">
     <img src="https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
-  </a>
-</h3>
-
-## 📊 Github Stats
-
-<h3 align="center">
-  <a href="https://github.com/om3ga6400/github-readme-stats/">
-    <img height="175vw" src="https://github-readme-stats-om3ga6400.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&rank_icon=percentile">
-    <img height="175vw" src="https://github-readme-stats-om3ga6400.vercel.app/api/top-langs?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&layout=donut">
   </a>
 </h3>
 
