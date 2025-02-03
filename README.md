@@ -6,7 +6,7 @@
 
 <h3 align=center>
   <a href="https://github.com/antonkomarev/github-profile-views-counter/">
-    <img src="https://komarev.com/ghpvc/?username=om3ga6400">
+    <img src="https://views.whatilearened.today/views/github/om3ga6400/om3ga6400.svg">
   </a>
   <a href="https://shields.io/">
     <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logo=github">
