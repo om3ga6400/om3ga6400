@@ -45,8 +45,8 @@
 
 <h3 align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170vw" src="https://github-readme-stats.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&rank_icon=percentile">
-    <img height="170vw" src="https://github-readme-stats.vercel.app/api/top-langs?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&layout=compact">
+    <img height="165vw" src="https://github-readme-stats.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&rank_icon=percentile">
+    <img height="165vw" src="https://github-readme-stats.vercel.app/api/top-langs?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&layout=compact">
   </a>
 </h3>
 
