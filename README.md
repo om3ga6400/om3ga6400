@@ -41,6 +41,15 @@
   </a>
 </h3>
 
+## 📊 Github Stats
+
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-stats">
+    <img height="175vw" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&rank_icon=percentile">
+    <img height="175vw" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=om3ga6400&theme=github_dark&hide_border=true&hide_title=true&layout=compact">
+  </a>
+</h3>
+
 ## 🏆 Awards
 
 <h3 align=center>
