@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://github.com/vaaski/vaaski">
-    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/assets/om3ga6400-min.svg">
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/assets/om3ga6400.svg">
   </a>
 </h3>
 
