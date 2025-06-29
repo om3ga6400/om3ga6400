@@ -1,12 +1,12 @@
 <h3 align="center">
   <a href="https://github.com/vaaski/vaaski">
-    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/assets/om3ga.svg">
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/assets/banner.svg">
   </a>
 </h3>
 
 <h3 align=center>
   <a href="https://github.com/antonkomarev/github-profile-views-counter/">
-    <img src="https://views.whatilearened.today/views/github/om3ga6400/om3ga6400.svg">
+    <img src="https://views.whatilearened.today/views/github/om3ga6400/banner.svg">
   </a>
   <a href="https://shields.io/">
     <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logo=github">

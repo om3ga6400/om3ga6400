@@ -1,0 +1,4 @@
+<svg x="472" y="172" width="256" height="256" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" transform-origin="center">
+  <animateTransform attributeName="transform" type="scale" from="0 0" to="1 1" begin="0s" dur="2.5s" fill="freeze" calcMode="spline" keySplines="0.16, 1, 0.3, 1" keyTimes="0;1"/>
+  <path fill="#fff" d="M0 479h184v33H0zm328 0h184v33H328zM256 0c141.385 0 256 116.961 256 261.238C512 380.005 434.332 480.26 328 512v-33.167c88.953-30.639 153-116.484 153-217.595 0-126.806-100.736-229.604-225-229.604S31 134.432 31 261.238c0 100.732 63.568 186.311 152 217.247V511.7C77.181 479.631 0 379.633 0 261.238 0 116.961 114.615 0 256 0"/>
+</svg>
