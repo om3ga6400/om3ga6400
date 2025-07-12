@@ -64,3 +64,11 @@
     <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-contribution-grid-snake-dark.svg">
   </a>
 </h3>
+
+<!--
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
+export PATH=$JAVA_HOME/bin:$PATH
+java -version
+-->
