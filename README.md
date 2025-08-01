@@ -6,13 +6,13 @@
 
 <h3 align=center>
   <a href="https://github.com/journey-ad/Moe-Counter">
-    <img src="https://count.getloli.com/@om3ga6400?name=om3ga6400-new&theme=rule34&scale=1.5">
+    <img src="https://count.getloli.com/@om3ga6400?name=om3ga6400&theme=rule34&scale=1.5">
   </a>
 </h3>
 
 <h3 align=center>
   <a href="https://github.com/antonkomarev/github-profile-views-counter/">
-    <img src="https://komarev.com/ghpvc/?username=om3ga6400-new">
+    <img src="https://komarev.com/ghpvc/?username=om3ga6400">
   </a>
   <a href="https://shields.io/">
     <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logo=github">
