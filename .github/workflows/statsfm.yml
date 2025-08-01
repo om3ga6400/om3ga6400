@@ -1,18 +1,37 @@
-name: Update Stats.fm Albums
+name: Update stats.fm Top Albums
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  update-albums:
+  update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Run Stats.fm to Markdown
-        uses: cow279/statsfm-to-markdown@latest
+      - name: Update stats.fm top albums
+        uses: teraha-dev/statsfm-to-markdown@v1.0.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          statsfm_username: 'om3ga6400'
+          display_limit: 10
+          
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "statsfm-to-markdown Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes in README.md. Skipping commit."
+          else
+            git commit -m "docs: Update stats.fm top albums"
+            echo "Pushing changes..."
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
