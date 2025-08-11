@@ -1,31 +1,43 @@
 name: Update stats.fm Top Albums
 
 on:
+  # Schedule updates (e.g., runs every day at midnight UTC)
   schedule:
     - cron: '0 0 * * *'
+  # Allow manual triggering
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Required to push changes back to the repository
     steps:
+      # Check out the repository code
       - name: Checkout code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
+      # Run the statsfm-to-markdown action
       - name: Update stats.fm top albums
-        uses: teraha-dev/statsfm-to-markdown@v1.0.0
+        uses: teraha-dev/statsfm-to-markdown@v1.0.0 # Use the latest release tag (e.g., @v1.0.0)
         with:
-          statsfm_username: 'om3ga6400'
-          display_limit: 10
-          
+          # REQUIRED: Your stats.fm username
+          statsfm_username: 'om3ga6400' # Replace with your actual username
 
+          # OPTIONAL: Customize the display (see Inputs below)
+          display_limit: '10'        # Number of albums to show (max 50)
+          time_range: 'weeks'       # Data period: weeks, months, lifetime
+          show_rank: 'true'         # Include rank number in tooltip: true, false
+          show_duration: 'true'     # Include playtime in tooltip: true, false
+          readme_path: 'README.md'  # Path to your README file
+
+      # Commit and push the updated README file
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "statsfm-to-markdown Action"
-          git add README.md
+          git add README.md # Or use the specific path from 'readme_path' if changed
+          # Commit only if README.md has changed
           if git diff --staged --quiet; then
             echo "No changes in README.md. Skipping commit."
           else
@@ -34,4 +46,4 @@ jobs:
             git push
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required for pushing changes
