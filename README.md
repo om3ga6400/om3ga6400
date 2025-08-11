@@ -48,10 +48,7 @@
   </a>
 </h3>
 
-
 <!-- STATSFM START -->
-
-
 <!-- STATSFM END -->
 
 ## 🔥 Streak Stats
