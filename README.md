@@ -48,6 +48,9 @@
   </a>
 </h3>
 
+<!-- STATSFM START -->
+<!-- STATSFM END -->
+
 ## 🔥 Streak Stats
 
 <h3 align="center">
