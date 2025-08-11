@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Animation
 
 on:
   # Schedule updates (e.g., runs every day at midnight UTC)
