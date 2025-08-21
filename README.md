@@ -41,7 +41,7 @@
 
 <h3 align="center">
   <a href="https://github.com/kittinan/spotify-github-profile/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317acg6cjueru456j7s6tsnejlle&cover_image=true&theme=novatorem&show_offline=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317acg6cjueru456j7s6tsnejlle&cover_image=true&theme=novatorem&show_offline=true&interchange=true">
   </a>
   <a href="https://github.com/YungBricoCoop/statsfm-card">
     <img src="https://card.elwan.ch/?username=om3ga6400&type=artists&y_offset=0&height=120&width=450&spacing=10&g_start=0d1117&g_stop=0d1117">
