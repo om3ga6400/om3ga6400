@@ -88,8 +88,12 @@
 
 # 🐍 Snk
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<h3 align="center">
+  <a href="https://github.com/Platane/snk/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-snake.svg">
+      <img alt="github-snake">
+    </picture>
+  </a>
+</h3>
