@@ -2,7 +2,7 @@ name: Update stats.fm Top Albums
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 jobs:
