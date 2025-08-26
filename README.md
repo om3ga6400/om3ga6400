@@ -74,7 +74,7 @@
 
 <h3 align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy/">
-    <img src="https://github-profile-trophy.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
+    <img src="https://github-profile-trophy-om3ga6400.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
   </a>
 </h3>
 
