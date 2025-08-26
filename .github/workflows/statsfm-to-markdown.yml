@@ -19,7 +19,7 @@ jobs:
         with:
           statsfm_username: 'om3ga6400'
 
-          display_limit: '28'       # Number of albums to show (max 50)
+          display_limit: '35'       # Number of albums to show (max 50)
           time_range: 'weeks'       # Data period: weeks, months, lifetime
           show_rank: 'true'         # Include rank number in tooltip: true, false
           show_duration: 'true'     # Include playtime in tooltip: true, false
