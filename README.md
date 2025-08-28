@@ -98,3 +98,5 @@
     </picture>
   </a>
 </h3>
+
+<!--Geometria and Euclid Flex-->
