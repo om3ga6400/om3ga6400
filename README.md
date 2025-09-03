@@ -48,7 +48,7 @@
   </a>
 </h3>
 
-<p align="center">My top albums this month</p>
+<p align="center">My top albums this week</p>
  
 <!-- STATSFM START -->
 
