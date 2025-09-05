@@ -2,7 +2,7 @@
 <h3 align="center">
   <a href="https://github.com/vaaski/vaaski">
     <!-- ts school Chromebook so ass this SVG lags it wtf 😭😭😭 -->
-    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/assets/banner.svg">
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/assets/om3ga/banner.svg">
   </a>
 </h3>
 
@@ -92,7 +92,7 @@
   </a>
 </h3>
 
-# 🐍 Snk
+## 🐍 Snk
 
 <h3 align="center">
   <a href="https://github.com/Platane/snk/">
@@ -103,5 +103,3 @@
     </picture>
   </a>
 </h3>
-
-<!--Geometria and Euclid Flex-->
