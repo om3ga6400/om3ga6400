@@ -6,13 +6,6 @@
   </a>
 </h3>
 
-<!-- Goofy view counter using journey-ad's Moe Counter. Might remove because it’s somewhat suggestive, but idk ¯\_(ツ)_/¯ -->
-<h3 align="center">
-  <a href="https://github.com/journey-ad/Moe-Counter">
-    <img src="https://count.getloli.com/@om3ga6400?name=om3ga6400&theme=rule34&scale=1.5">
-  </a>
-</h3>
-
 <!-- Bunch of shields.io and shields.io style badges -->
 <h3 align="center">
   <!-- Another view counter; this one is in the shields.io style, made by antonkomarev and breaks occasionally -->
@@ -34,6 +27,13 @@
   <!-- Very cool shields.io style badge using discord-md-badge by gitlimes, shows when I’m active on Discord. LIMES ARE NOT PINK -->
   <a href="https://github.com/gitlimes/discord-md-badge/">
     <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=fflat-square">
+  </a>
+</h3>
+
+<!-- Goofy view counter using journey-ad's Moe Counter. Might remove because it’s somewhat suggestive, but idk ¯\_(ツ)_/¯ -->
+<h3 align="center">
+  <a href="https://github.com/journey-ad/Moe-Counter">
+    <img src="https://count.getloli.com/@om3ga6400?name=om3ga6400&theme=rule34&scale=1.5">
   </a>
 </h3>
 
@@ -76,19 +76,19 @@
   </a>
 </h3>
 
-## 💬 Programing Quote
-
-<h3 align="center">
-  <a href="https://github.com/zhravan/github-readme-quotes/">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark">
-  </a>
-</h3>
-
 ## 📈 Contribution Graph
 
 <h3 align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true&hide_title=true">
+  </a>
+</h3>
+
+## 💬 Programing Quote
+
+<h3 align="center">
+  <a href="https://github.com/zhravan/github-readme-quotes/">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark">
   </a>
 </h3>
 
