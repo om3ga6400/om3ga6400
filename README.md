@@ -76,6 +76,14 @@
   </a>
 </h3>
 
+## 💬 Programing Quote
+
+<h3 align="center">
+  <a href="https://github.com/zhravan/github-readme-quotes/">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark">
+  </a>
+</h3>
+
 ## 📈 Contribution Graph
 
 <h3 align="center">
