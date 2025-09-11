@@ -86,8 +86,13 @@
 
 ## 🐍 Snk
 
+<!--thanks to isitreallyalive for the Catppuccin config-->
 <h3 align="center">
   <a href="https://github.com/Platane/snk/">
     <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/snake/ctp-mocha-mauve.svg">
   </a>
 </h3>
+
+## Other
+
+[How to install Catppuccin](https://userstyles.catppuccin.com/getting-started/usage/)
