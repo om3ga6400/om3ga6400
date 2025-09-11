@@ -64,7 +64,7 @@
 
 <h3 align="center">
   <a href="https://github.com/om3ga6400/github-readme-streak-stats/">
-    <img src="https://github-readme-streak-stats-om3ga6400.vercel.app/?user=om3ga6400&theme=github-dark-blue&hide_border=true&date_format=j/n/Y">
+    <img src="https://github-readme-streak-stats-om3ga6400.vercel.app/?user=om3ga6400&theme=catppuccin-mocha&hide_border=true&date_format=j/n/Y">
   </a>
 </h3>
 
