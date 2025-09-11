@@ -72,7 +72,7 @@
 
 <h3 align="center">
   <a href="https://github.com/om3ga6400/github-profile-trophy/">
-    <img src="https://github-profile-trophy-om3ga6400.vercel.app/?username=OM3GA6400&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8">
+    <img src="https://github-profile-trophy-rho-woad.vercel.app/?username=OM3GA6400&theme=darkh&no-frame=true&row=1&margin-w=0&column=8">
   </a>
 </h3>
 
@@ -80,7 +80,7 @@
 
 <h3 align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true&hide_title=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&bg_color=1e1e2e&hide_border=true&hide_title=true">
   </a>
 </h3>
 
