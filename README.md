@@ -88,10 +88,6 @@
 
 <h3 align="center">
   <a href="https://github.com/Platane/snk/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/output/github-snake.svg">
-      <img alt="github-snake">
-    </picture>
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/snake/ctp-mocha-mauve.svg">
   </a>
 </h3>
