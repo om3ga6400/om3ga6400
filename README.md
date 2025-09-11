@@ -80,7 +80,7 @@
 
 <h3 align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&bg_color=1e1e2e&hide_border=true&hide_title=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=6c7086&hide_border=true&hide_title=true">
   </a>
 </h3>
 
