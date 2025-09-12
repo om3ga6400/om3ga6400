@@ -1,4 +1,4 @@
-name: Update stats.fm Top Albums
+name: Update Stats.fm Top Albums
 
 on:
   schedule:
@@ -6,38 +6,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v5
 
-      - name: Update stats.fm top albums
-        uses: teraha-dev/statsfm-to-markdown@v1.0.1
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: teraha-dev/statsfm-to-markdown@v1.0.1
         with:
           statsfm_username: 'om3ga6400'
+          display_limit: '14'
+          time_range: 'weeks'
+          show_rank: 'true'
+          show_duration: 'true'
+          readme_path: 'README.md'
+          items_per_row: '7'
 
-          display_limit: '14'       # Number of albums to show (max 50)
-          time_range: 'weeks'       # Data period: weeks, months, lifetime
-          show_rank: 'true'         # Include rank number in tooltip: true, false
-          show_duration: 'true'     # Include playtime in tooltip: true, false
-          readme_path: 'README.md'  # Path to your README file
-          items_per_row: '7'        # Number of albums to display per row
-
-      - name: Commit and push updated top albums
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "statsfm-to-markdown Action"
-          git add README.md # Or use the specific path from 'readme_path' if changed
-          # Commit only if README.md has changed
-          if git diff --staged --quiet; then
-            echo "No changes in README.md. Skipping commit."
-          else
-            git commit -m "docs: Update stats.fm top albums"
-            echo "Pushing changes..."
-            git push
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git diff README.md --quiet || (git add README.md && git commit -m "chore: update stats.fm top albums" && git push)
