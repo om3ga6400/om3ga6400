@@ -96,7 +96,7 @@
 ## Breakout
 
 <h3 align="center">
-  <a href="https://github.com/Platane/snk/">
+  <a href="https://github.com/cyprieng/github-breakout/">
     <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/generated-svgs/images/breakout.svg">
   </a>
 </h3>
