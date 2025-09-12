@@ -1,4 +1,4 @@
-name: Generate snk SVG
+name: Generate github-contribution-grid-snake.svg
 
 on:
   schedule:
