@@ -1,4 +1,4 @@
-name: snk
+name: Generate snk
 
 on:
   schedule:
@@ -14,14 +14,14 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate svg
+      - name: Generate SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/ctp-snk.svg?color_snake=#cba6f7&color_dots=#313244,#6c7086,#9399b2,#b4befe,#cba6f7&color_progress=#cba6f7
             
-      - name: push to the output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
           target_branch: snake
