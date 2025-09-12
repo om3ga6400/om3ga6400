@@ -1,4 +1,4 @@
-name: Generate snk Animation
+name: Generate snk SVG
 
 on:
   schedule:
