@@ -1,4 +1,4 @@
-name: generate github-contribution-grid-brakeout.svg
+name: Generate Brakeout
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
+      - name: Generate SVG
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
