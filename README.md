@@ -68,6 +68,14 @@
   </a>
 </h3>
 
+## 🏆 Awards
+
+<h3 align="center">
+  <a href="https://github.com/om3ga6400/github-profile-trophy/">
+    <img src="https://github-profile-trophy-om3ga6400.vercel.app/?username=OM3GA6400&theme=catppuccin_mocha&no-bg=true&no-frame=true&row=1&margin-w=0&column=8">
+  </a>
+</h3>
+
 ## 📈 Contribution Graph
 
 <h3 align="center">
