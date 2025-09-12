@@ -84,7 +84,7 @@
   </a>
 </h3>
 
-## 🐍 Snk
+## :octocat: Contributions grid stuff
 
 <!--thanks to isitreallyalive for the Catppuccin config-->
 <h3 align="center">
@@ -93,11 +93,9 @@
   </a>
 </h3>
 
-## Breakout
-
 <h3 align="center">
   <a href="https://github.com/cyprieng/github-breakout/">
-    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/generated-svgs/images/breakout.svg">
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/generated-svgs/images/breakout.svg?timestamp=20250912">
   </a>
 </h3>
 
