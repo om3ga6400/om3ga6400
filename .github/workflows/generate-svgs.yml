@@ -31,7 +31,7 @@ jobs:
       - run: |
           mkdir -p images
           mv output/snake.svg images/
-          mv output/dark.svg images/breakout.svg
+          mv output/custom.svg images/breakout.svg
           git checkout --orphan generated-svgs
           git rm -rf .
           git config user.name "github-actions[bot]"
