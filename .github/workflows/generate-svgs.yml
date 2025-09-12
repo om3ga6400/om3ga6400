@@ -26,7 +26,7 @@ jobs:
           enable_ghost_bricks: false
           paddle_color: "#cba6f7"
           ball_color: "#cba6f7"
-          bricks_colors: "#cba6f7,#b4befe,#a6e3a1,#f9e2af,#f38ba8,#89b4fa"
+          bricks_colors: "#313244,#6c7086,#9399b2,#b4befe,#cba6f7"
 
       - run: |
           mkdir -p images
