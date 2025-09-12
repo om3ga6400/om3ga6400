@@ -89,7 +89,7 @@
 <!--thanks to isitreallyalive for the Catppuccin config-->
 <h3 align="center">
   <a href="https://github.com/Platane/snk/">
-    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/snake/ctp-mocha-mauve.svg">
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/snake/snake.svg">
   </a>
 </h3>
 
