@@ -1,0 +1,37 @@
+name: Generate SVGs
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/snake.svg?color_snake=#cba6f7&color_dots=#313244,#6c7086,#9399b2,#b4befe,#cba6f7&color_progress=#cba6f7
+
+      - uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+
+      - run: |
+          mkdir -p images
+          mv output/snake.svg images/
+          mv output/dark.svg images/breakout.svg
+          git checkout --orphan generated-svgs
+          git rm -rf .
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images
+          git commit -m "chore: update generated SVGs" || echo "No changes"
+          git push --force origin generated-svgs
