@@ -23,6 +23,10 @@ jobs:
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
+          enable_ghost_bricks: false
+          paddle_color: "#cba6f7"
+          ball_color: "#cba6f7"
+          bricks_colors: "#cba6f7,#b4befe,#a6e3a1,#f9e2af,#f38ba8,#89b4fa"
 
       - run: |
           mkdir -p images
