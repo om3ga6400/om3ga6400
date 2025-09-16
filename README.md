@@ -44,7 +44,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317acg6cjueru456j7s6tsnejlle&cover_image=true&theme=novatorem&show_offline=true">
   </a>
   <a href="https://github.com/YungBricoCoop/statsfm-card">
-    <img src="https://card.elwan.ch/?username=om3ga6400&type=artists&y_offset=0&height=120&width=450&spacing=10&g_start=1e1e2e&g_stop=1e1e2e">
+    <img src="https://card.elwan.ch/?username=om3ga6400&type=artists&y_offset=0&height=120&width=450&spacing=10&g_start=0d1117&g_stop=0d1117">
   </a>
 </h3>
 
@@ -64,7 +64,7 @@
 
 <h3 align="center">
   <a href="https://github.com/om3ga6400/github-readme-streak-stats/">
-    <img src="https://github-readme-streak-stats-om3ga6400.vercel.app/?user=om3ga6400&theme=catppuccin-mocha&hide_border=true&date_format=j/n/Y">
+    <img src="https://github-readme-streak-stats-om3ga6400.vercel.app/?user=om3ga6400&theme=github-dark-blue&hide_border=true&date_format=j/n/Y">
   </a>
 </h3>
 
@@ -72,7 +72,7 @@
 
 <h3 align="center">
   <a href="https://github.com/om3ga6400/github-profile-trophy/">
-    <img src="https://github-profile-trophy-om3ga6400.vercel.app/?username=OM3GA6400&theme=catppuccin_mocha&no-bg=true&no-frame=true&row=1&margin-w=0&column=8&cachebuster=1">
+    <img src="https://github-profile-trophy-om3ga6400.vercel.app/?username=OM3GA6400&theme=darkhub&no-bg=true&no-frame=true&row=1&margin-w=0&column=8">
   </a>
 </h3>
 
@@ -80,7 +80,7 @@
 
 <h3 align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=6c7086&hide_border=true&hide_title=true&area=true&area_color=313244,6c7086,9399b2,b4befe,cba6f7">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=tokyo-night&hide_border=true&hide_title=true&area=true">
   </a>
 </h3>
 
@@ -95,10 +95,6 @@
 
 <h3 align="center">
   <a href="https://github.com/cyprieng/github-breakout/">
-    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/generated-svgs/images/breakout.svg?timestamp=20250912">
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/generated-svgs/images/breakout.svg">
   </a>
 </h3>
-
-## Other
-
-[How to install Catppuccin](https://userstyles.catppuccin.com/getting-started/usage/)
