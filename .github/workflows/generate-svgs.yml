@@ -18,15 +18,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/snake.svg?color_snake=#cba6f7&color_dots=#313244,#6c7086,#9399b2,#b4befe,#cba6f7&color_progress=#cba6f7
+            output/snake.svg?palette=github-dark
 
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
           enable_ghost_bricks: false
-          paddle_color: "#cba6f7"
-          ball_color: "#cba6f7"
-          bricks_colors: "#313244,#6c7086,#9399b2,#b4befe,#cba6f7"
 
       - run: |
           mkdir -p images
