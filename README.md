@@ -81,7 +81,7 @@
   </a>
 </h3>
 
-## :octocat: Contributions grid stuff
+## Other
 
 <!--thanks to isitreallyalive for the Catppuccin config-->
 <h3 align="center">
