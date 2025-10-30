@@ -25,6 +25,7 @@ jobs:
           items_per_row: '6'
           theme: 'dark'
 
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "statsfm-to-markdown Action"
