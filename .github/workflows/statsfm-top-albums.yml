@@ -18,7 +18,7 @@ jobs:
         with:
           statsfm_username: 'om3ga6400'
           display_limit: '49'
-          time_range: 'weeks'
+          time_range: 'months'
           show_rank: 'true'
           show_duration: 'true'
           readme_path: 'README.md'
