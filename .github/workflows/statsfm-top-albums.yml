@@ -17,8 +17,8 @@ jobs:
       - uses: teraha-dev/statsfm-to-markdown@v1.0.1
         with:
           statsfm_username: 'om3ga6400'
-          display_limit: '49'
-          time_range: 'months'
+          display_limit: '14'
+          time_range: 'weeks'
           show_rank: 'true'
           show_duration: 'true'
           readme_path: 'README.md'
