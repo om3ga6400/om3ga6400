@@ -18,7 +18,7 @@
   </a>
   <!-- shields.io badge that shows how many followers I have; links to my followers page -->
   <a href="https://github.com/om3ga6400?tab=followers">
-    <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github">
+    <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github/">
   </a>
   <!-- shields.io badge that shows what license I have on this repo; links to the license as raw text -->
   <a href="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/LICENSE">
