@@ -20,6 +20,9 @@
   <a href="https://github.com/om3ga6400?tab=followers">
     <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github/">
   </a>
+  <a href="https://github.com/prettier/prettier/">
+    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=fflat-square">
+  </a>
   <!-- shields.io badge that shows what license I have on this repo; links to the license as raw text -->
   <a href="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/LICENSE">
     <img src="https://img.shields.io/github/license/om3ga6400/om3ga6400">
