@@ -4,6 +4,7 @@ on: push
 
 permissions:
   contents: write
+  workflows: write
 
 jobs:
   format:
