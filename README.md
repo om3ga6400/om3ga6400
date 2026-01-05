@@ -86,7 +86,6 @@
 
 ## Other
 
-<!--thanks to isitreallyalive for the Catppuccin config-->
 <h3 align="center">
   <a href="https://github.com/Platane/snk/">
     <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/generated-svgs/images/snake.svg">
