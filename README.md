@@ -7,26 +7,21 @@
 
 <!-- Bunch of shields.io and shields.io style badges -->
 <h3 align="center">
-  <!-- Another view counter; this one is in the shields.io style, made by antonkomarev and breaks occasionally -->
   <a href="https://github.com/antonkomarev/github-profile-views-counter/">
     <img src="https://komarev.com/ghpvc/?username=om3ga6400">
   </a>
-  <!-- shields.io badge that shows how many stars I have on all my repos combined; links to shields.io -->
   <a href="https://shields.io/">
     <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logo=github">
   </a>
-  <!-- shields.io badge that shows how many followers I have; links to my followers page -->
   <a href="https://github.com/om3ga6400?tab=followers">
     <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github/">
   </a>
-  <!-- shields.io badge that shows what license I have on this repo; links to the license as raw text -->
   <a href="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/LICENSE">
     <img src="https://img.shields.io/github/license/om3ga6400/om3ga6400">
   </a>
   <a href="https://github.com/prettier/prettier/">
     <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=fflat-square">
   </a>
-  <!-- Very cool shields.io style badge using discord-md-badge by gitlimes, shows when I’m active on Discord. LIMES ARE NOT PINK -->
   <a href="https://github.com/gitlimes/discord-md-badge/">
     <img src="https://dcbadge.limes.pink/api/shield/1232072032590758069?style=fflat-square">
   </a>
