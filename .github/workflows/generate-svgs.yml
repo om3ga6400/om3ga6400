@@ -20,7 +20,8 @@ jobs:
           github_username: ${{ github.repository_owner }}
       - name: Create output directory
         run: mkdir -p output
-      - uses: lowlighter/metrics@latest
+      - name: Generate Steam metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: output/steam.svg
           token: NOT_NEEDED
@@ -28,11 +29,34 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561199283561300"
+      - name: Favorites anime and currently watching
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
+          plugin_anilist_user: om3ga6400
+      - name: Favorites characters
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/anilist.characters.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
+          plugin_anilist_user: om3ga6400
       - run: |
           mkdir -p images
           mv output/snake.svg images/
           mv output/dark.svg images/breakout.svg
           mv output/steam.svg images/
+          mv output/metrics.plugin.anilist.svg images/
+          mv output/metrics.plugin.anilist.characters.svg images/
           git checkout --orphan generated-svgs
           git rm -rf .
           git config user.name "github-actions[bot]"
