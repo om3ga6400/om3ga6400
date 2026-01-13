@@ -18,6 +18,8 @@ jobs:
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
+      - name: Create output directory
+        run: mkdir -p output
       - uses: lowlighter/metrics@latest
         with:
           filename: output/steam.svg
