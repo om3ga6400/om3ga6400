@@ -10,24 +10,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: generated-svgs
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            snake.svg?palette=github-dark
+            images/snake.svg?palette=github-dark
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-      - name: List generated files
-        run: |
-          echo "Files in root:"
-          ls -la *.svg || echo "No SVG files in root"
-          echo "Files in dist:"
-          ls -la dist/*.svg || echo "No SVG files in dist"
+      - run: mv output/dark.svg images/breakout.svg
       - name: Generate Steam metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: steam.svg
+          filename: images/steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
@@ -36,7 +33,7 @@ jobs:
       - name: Favorites anime and currently watching
         uses: lowlighter/metrics@latest
         with:
-          filename: anilist.svg
+          filename: images/anilist.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
@@ -47,22 +44,16 @@ jobs:
       - name: Favorites characters
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/anilist.characters.svg
+          filename: images/anilist.characters.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
-          plugin_anilist_user: om3ga6400
-      - name: Deploy to generated-svgs branch
-        run: |
-          mkdir -p images
-          mv output/dark.svg images/breakout.svg
-          mv snake.svg steam.svg anilist.svg anilist.characters.svg images/
-          git checkout --orphan generated-svgs
-          git rm -rf .
+          plugin_anilist_user: 0m3ga6400
+      - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images
           git commit -m "chore: update generated SVGs" || echo "No changes"
-          git push --force origin generated-svgs
+          git push origin generated-svgs
