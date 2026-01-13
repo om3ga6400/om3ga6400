@@ -1,51 +1,37 @@
 name: Generate SVGs
+
 on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v6
-      
+      - uses: actions/checkout@v5
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-snake-dark.svg?palette=github-dark
-      
+            output/snake.svg?palette=github-dark
+
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-      
-      - name: Generate Steam metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: NOT_NEEDED
-          filename: steam.svg
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: yes
-          plugin_steam_user: "76561199283561300"
-      
-      - name: Generate Anilist metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: NOT_NEEDED
-          filename: anilist.svg
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching, characters
-          plugin_anilist_limit: 1
-          plugin_anilist_user: 0m3ga6400
-      
-      - name: Commit and push to generated-svgs branch
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git checkout -B generated-svgs
-          git add *.svg
-          git commit -m "Update SVGs" || exit 0
-          git push -f origin generated-svgs
+
+      - run: |
+          mkdir -p images
+          mv output/snake.svg images/
+          mv output/dark.svg images/breakout.svg
+          git checkout --orphan generated-svgs
+          git rm -rf .
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images
+          git commit -m "chore: update generated SVGs" || echo "No changes"
+          git push --force origin generated-svgs
