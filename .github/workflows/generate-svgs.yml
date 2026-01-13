@@ -43,7 +43,7 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
-          plugin_anilist_user: om3ga6400
+          plugin_anilist_user: 0m3ga6400
       - name: Favorites characters
         uses: lowlighter/metrics@latest
         with:
@@ -57,7 +57,7 @@ jobs:
       - name: Deploy to generated-svgs branch
         run: |
           mkdir -p images
-          mv dark.svg images/breakout.svg
+          mv output/dark.svg images/breakout.svg
           mv dist/snake.svg dist/steam.svg dist/anilist.svg dist/anilist.characters.svg images/
           git checkout --orphan generated-svgs
           git rm -rf .
