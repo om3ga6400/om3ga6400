@@ -1,42 +1,36 @@
 name: Generate SVGs
-
 on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v5
-
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/snake.svg?palette=github-dark
-
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-
       - uses: lowlighter/metrics@latest
         with:
-          filename: steam.svg
+          filename: output/steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561199283561300"
-
       - run: |
           mkdir -p images
           mv output/snake.svg images/
           mv output/dark.svg images/breakout.svg
+          mv output/steam.svg images/
           git checkout --orphan generated-svgs
           git rm -rf .
           git config user.name "github-actions[bot]"
