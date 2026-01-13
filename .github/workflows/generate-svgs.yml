@@ -52,11 +52,7 @@ jobs:
           plugin_anilist_user: om3ga6400
       - run: |
           mkdir -p images
-          mv output/snake.svg images/
-          mv output/dark.svg images/breakout.svg
-          mv output/steam.svg images/
-          mv output/metrics.plugin.anilist.svg images/
-          mv output/metrics.plugin.anilist.characters.svg images/
+          mv output/* images/
           git checkout --orphan generated-svgs
           git rm -rf .
           git config user.name "github-actions[bot]"
