@@ -10,55 +10,40 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
+      
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            /tmp/snake.svg?palette=github-dark
+            github-snake-dark.svg?palette=github-dark
+      
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
+      
       - name: Generate Steam metrics
         uses: lowlighter/metrics@latest
         with:
           filename: steam.svg
-          token: NOT_NEEDED
-          base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561199283561300"
-          config_output: none
-      - name: Favorites anime and currently watching
+      
+      - name: Generate Anilist metrics
         uses: lowlighter/metrics@latest
         with:
           filename: anilist.svg
-          token: NOT_NEEDED
-          base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
+          plugin_anilist_sections: favorites, watching, characters
           plugin_anilist_limit: 1
           plugin_anilist_user: 0m3ga6400
-          config_output: none
-      - name: Favorites characters
-        uses: lowlighter/metrics@latest
-        with:
-          filename: anilist.characters.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_user: 0m3ga6400
-          config_output: none
-      - run: |
-          git checkout --orphan generated-svgs
-          git rm -rf .
-          mkdir -p images
-          mv output/dark.svg images/breakout.svg
-          mv /tmp/snake.svg steam.svg anilist.svg anilist.characters.svg images/
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add images
-          git commit -m "chore: update generated SVGs"
-          git push --force origin generated-svgs
+      
+      - name: Commit and push to generated-svgs branch
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout -B generated-svgs
+          git add *.svg
+          git commit -m "Update SVGs" || exit 0
+          git push -f origin generated-svgs
