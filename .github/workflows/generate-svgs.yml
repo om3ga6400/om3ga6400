@@ -14,7 +14,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark
+            snake.svg?palette=github-dark
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
@@ -27,7 +27,7 @@ jobs:
       - name: Generate Steam metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/steam.svg
+          filename: steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
@@ -36,7 +36,7 @@ jobs:
       - name: Favorites anime and currently watching
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/anilist.svg
+          filename: anilist.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
@@ -58,7 +58,7 @@ jobs:
         run: |
           mkdir -p images
           mv output/dark.svg images/breakout.svg
-          mv dist/snake.svg dist/steam.svg dist/anilist.svg dist/anilist.characters.svg images/
+          mv snake.svg steam.svg anilist.svg anilist.characters.svg images/
           git checkout --orphan generated-svgs
           git rm -rf .
           git config user.name "github-actions[bot]"
