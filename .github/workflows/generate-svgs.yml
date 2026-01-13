@@ -24,6 +24,15 @@ jobs:
         with:
           github_username: ${{ github.repository_owner }}
 
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561199283561300"
+
       - run: |
           mkdir -p images
           mv output/snake.svg images/
