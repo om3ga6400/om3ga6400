@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=om3ga6400">
   </a>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow&logo=github">
+    <img src="https://img.shields.io/github/stars/om3ga6400?style=fflat-square&color=yellow">
   </a>
   <a href="https://github.com/om3ga6400?tab=followers">
     <img src="https://img.shields.io/github/followers/om3ga6400?style=fflat-square&logo=github/">
