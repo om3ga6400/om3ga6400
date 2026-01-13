@@ -21,16 +21,17 @@ jobs:
       - name: Generate Steam metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: /tmp/steam.svg
+          filename: steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561199283561300"
+          config_output: none
       - name: Favorites anime and currently watching
         uses: lowlighter/metrics@latest
         with:
-          filename: /tmp/anilist.svg
+          filename: anilist.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
@@ -38,22 +39,24 @@ jobs:
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
           plugin_anilist_user: 0m3ga6400
+          config_output: none
       - name: Favorites characters
         uses: lowlighter/metrics@latest
         with:
-          filename: /tmp/anilist.characters.svg
+          filename: anilist.characters.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           plugin_anilist_user: 0m3ga6400
+          config_output: none
       - run: |
           git checkout --orphan generated-svgs
           git rm -rf .
           mkdir -p images
           mv output/dark.svg images/breakout.svg
-          mv /tmp/snake.svg /tmp/steam.svg /tmp/anilist.svg /tmp/anilist.characters.svg images/
+          mv /tmp/snake.svg steam.svg anilist.svg anilist.characters.svg images/
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images
