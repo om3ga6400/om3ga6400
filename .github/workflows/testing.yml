@@ -1,4 +1,14 @@
 name: Recently played games
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-steam-metrics:
+    runs-on: ubuntu-latest
+    steps:
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.steam.svg
