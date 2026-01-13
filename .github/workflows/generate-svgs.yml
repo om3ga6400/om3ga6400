@@ -18,6 +18,12 @@ jobs:
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
+      - name: List generated files
+        run: |
+          echo "Files in root:"
+          ls -la *.svg || echo "No SVG files in root"
+          echo "Files in dist:"
+          ls -la dist/*.svg || echo "No SVG files in dist"
       - name: Generate Steam metrics
         uses: lowlighter/metrics@latest
         with:
@@ -37,7 +43,7 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
-          plugin_anilist_user: 0m3ga6400
+          plugin_anilist_user: om3ga6400
       - name: Favorites characters
         uses: lowlighter/metrics@latest
         with:
@@ -47,7 +53,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
-          plugin_anilist_user: 0m3ga6400
+          plugin_anilist_user: om3ga6400
       - name: Deploy to generated-svgs branch
         run: |
           mkdir -p images
