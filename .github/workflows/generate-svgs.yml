@@ -18,7 +18,6 @@ jobs:
       - uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          dark_mode: true
       - name: Generate Steam metrics
         uses: lowlighter/metrics@latest
         with:
@@ -52,7 +51,7 @@ jobs:
       - name: Deploy to generated-svgs branch
         run: |
           mkdir -p images
-          mv dist/dark.svg images/breakout.svg
+          mv dark.svg images/breakout.svg
           mv dist/snake.svg dist/steam.svg dist/anilist.svg dist/anilist.characters.svg images/
           git checkout --orphan generated-svgs
           git rm -rf .
