@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "statsfm-to-markdown Action"
+          git config --local user.email "om3ga6400.dev@gmail.com"
+          git config --local user.name "om3ga6400"
           # Add README (SVG directory is only used in svg display_mode)
           if [ -d statsfm_svgs ]; then
             git add README.md statsfm_svgs/
