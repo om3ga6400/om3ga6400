@@ -32,7 +32,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_steam: yes
-          plugin_steam_user: "0"
+          plugin_steam_user: "76561199283561300"
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
 
       - name: Generate GitHub Sponsorships metrics
@@ -42,3 +42,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
           base: ""
           plugin_sponsorships: yes
+          plugin_sponsors_past: true
