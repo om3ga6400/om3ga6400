@@ -1,4 +1,4 @@
-name: Favorites anime and currently watching
+name: Generate AniList metrics
 
 on:
   schedule:
@@ -22,3 +22,4 @@ jobs:
           plugin_anilist_sections: favorites, watching, characters
           plugin_anilist_limit: 1
           plugin_anilist_limit_characters: 22
+          plugin_anilist_user: 0m3ga6400
