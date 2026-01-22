@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Generate AniList metrics
         uses: lowlighter/metrics@latest
@@ -20,6 +21,13 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters
-          plugin_anilist_limit: 20
-          plugin_anilist_limit_characters: 20
+          plugin_anilist_limit: 1
+          plugin_anilist_limit_characters: 14
           plugin_anilist_user: 0m3ga6400
+
+      - name: 💝 GitHub Sponsorships
+        uses: lowlighter/metrics@latest
+        with:
+          filename: sponsorships.svg
+          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          base
