@@ -1,4 +1,4 @@
-name: Generate AniList metrics
+name: Generate Metrics
 
 on:
   schedule:
@@ -25,9 +25,20 @@ jobs:
           plugin_anilist_limit_characters: 14
           plugin_anilist_user: 0m3ga6400
 
-      - name: 💝 GitHub Sponsorships
+      - name: Generate Steam metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: sponsorships.svg
+          filename: metrics.plugin.steam.full.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam: yes
+          plugin_steam_user: "0"
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+
+      - name: Generate GitHub Sponsorships metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.sponsorships.svg
           token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
-          base
+          base: ""
+          plugin_sponsorships: yes
