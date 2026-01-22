@@ -55,6 +55,17 @@
 <p align="center"><a href="https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u" target="_blank" rel="noopener noreferrer" title="#15 Quadeca - Vanisher, Horizon Scraper (2h 19m)"><img src="https://i.scdn.co/image/ab67616d0000b273428bec3d665ac543abc1905b" alt="Quadeca - Vanisher, Horizon Scraper" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/album/6e8pwYKSF9iZjpPep1DVzx" target="_blank" rel="noopener noreferrer" title="#16 Kid Cudi - Speedin&#x27; Bullet 2 Heaven (2h 19m)"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/bf/5b/13bf5b4d-4821-4dbb-f401-87045a344877/15UMGIM64768.rgb.jpg/768x768bb.jpg" alt="Kid Cudi - Speedin&#x27; Bullet 2 Heaven" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J" target="_blank" rel="noopener noreferrer" title="#17 Kendrick Lamar - Section.80 (2h 10m)"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/d3/37/d7d33750-6d28-6e73-4913-7139ebd80906/888915968772_cover.jpg/768x768bb.jpg" alt="Kendrick Lamar - Section.80" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/album/0XTAmejG8F97wF5MWoVbaY" target="_blank" rel="noopener noreferrer" title="#18 Kanye West - Yeezus (2h 9m)"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/56/e7/3c56e717-06a0-b67d-e694-9b6e6e43a5a8/13UAAIM08444.rgb.jpg/768x768bb.jpg" alt="Kanye West - Yeezus" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ" target="_blank" rel="noopener noreferrer" title="#19 Danny Brown - SCARING THE HOES: DIRECTOR&#x27;S CUT (1h 51m)"><img src="https://i.scdn.co/image/ab67616d0000b273e45353d4ea582786769c8f3b" alt="Danny Brown - SCARING THE HOES: DIRECTOR&#x27;S CUT" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF" target="_blank" rel="noopener noreferrer" title="#20 Nine Inch Nails - The Downward Spiral (1h 43m)"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e0/85/55e0851e-11df-3b6a-7c54-4eef0efc2bed/15UMGIM67680.rgb.jpg/768x768bb.jpg" alt="Nine Inch Nails - The Downward Spiral" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/album/3lQePoIm6iNQIiZkCYxCy0" target="_blank" rel="noopener noreferrer" title="#21 Kanye West - The College Dropout (1h 37m)"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/768x768bb.jpg" alt="Kanye West - The College Dropout" width="100" height="100"></a></p>
 <!-- STATSFM END -->
 
+## Misc
+
+<h3 align="center">
+  <a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/steam/README.md">
+    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/steam.svg">
+  </a>
+    <a href="https://github.com/lowlighter/metrics/blob/master/source/plugins/anilist/README.md">
+      <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/anilist.svg">
+    </a>
+</h3>
+    
 ## 🔥 Streak Stats
 
 <h3 align="center">
