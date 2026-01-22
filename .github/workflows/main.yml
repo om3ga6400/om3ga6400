@@ -1,0 +1,24 @@
+name: Favorites anime and currently watching
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate AniList metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching, characters
+          plugin_anilist_limit: 1
+          plugin_anilist_limit_characters: 22
