@@ -7,8 +7,8 @@
     <rect id="a" x="0" y="0" width="600" height="600" rx="25"/>
   </defs>
   <use href="#a" fill="url(#b)"/>
-  <svg xmlns="http://www.w3.org/2000/svg" x="120" y="120" width="360" height="360" viewBox="0 0 120 120">
-    <circle cx="60" cy="60" r="50" stroke="#fff" stroke-width="10" fill="none"/>
-    <path stroke="#fff" stroke-width="10" d="M5 110h110"/>
+  <svg xmlns="http://www.w3.org/2000/svg" x="120" y="120" width="360" height="360" viewBox="0 0 360 360" fill="none">
+    <path stroke="#fff" stroke-width="30" d="M15 330h330"/>
+    <circle cx="180" cy="180" r="150" stroke="#fff" stroke-width="30"/>
   </svg>
 </svg>
