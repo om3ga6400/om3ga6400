@@ -4,7 +4,7 @@
       <stop offset="0%" stop-color="#d60270"/>
       <stop offset="100%" stop-color="#0038a8"/>
     </linearGradient>
-    <rect id="a" x="25" y="25" width="1150" height="550" rx="25"/>
+    <rect id="a" x="0" y="0" width="1200" height="600" rx="25"/>
   </defs>
   <use href="#a" fill="url(#b)"/>
 </svg>
