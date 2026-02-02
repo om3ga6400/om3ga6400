@@ -30,8 +30,8 @@ jobs:
           mv output/dark.svg images/breakout.svg
           git checkout --orphan generated-svgs
           git rm -rf .
-          git config user.name "om3ga6400"
-          git config user.email "om3ga6400.dev@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images
           git commit -m "chore: update generated SVGs" || echo "No changes"
           git push --force origin generated-svgs
