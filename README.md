@@ -1,7 +1,7 @@
 <!-- Thanks to vaaski for the SVG frame and inspiration -->
 <h3 align="center">
   <a href="https://github.com/vaaski/vaaski">
-    <img src="https://raw.githubusercontent.com/om3ga6400/om3ga6400/refs/heads/main/assets/banner.svg">
+    <img src="https://raw.githubusercontent.com/om3ga6400/assets/v2/refs/heads/main/assets/banner.svg">
   </a>
 </h3>
 
