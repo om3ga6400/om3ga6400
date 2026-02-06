@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            224 / 547 achievements unlocked
+                                            226 / 547 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBAwYE/8QALRAAAgIBAwMCAwkBAAAAAAAAAQIDBBEAEiEFIjETQQZCURQjJDJhcXKRofD/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBv/EACYRAAECBAYCAwEAAAAAAAAAAAECEQADBAUGITFBUXESEyIyYYH/2gAMAwEAAhEDEQA/AAhljuxYBCzLyAdURtIlqJXjkEobBQqc/wBa5qk+0PuDwyL3myGUCJByxJI4H6jn6a1vSemwRyPP1mjcljMXrJQrBowkOTiaZN4+8bB7BngEkFjxX3vEptU30pklaiPiAc1csA+Q5LaFv2irLgKNQ9gARuoqAA4fs5dxnpVmNmQCM+oxO2MkBzj6L5/zVgljpRdxDStyQP8AvGjdu7LV3VbPRekVq88ZkhqKnph08rYjnGDJtGGIUBgD4BHOSszF+47ZJyxJdM4K8YySBlvPOBxjOTkkuGsUVF5mFM2R4p2UkuOieYRKn+ws0AukWjLMRPclM5IVIcqFkU8MDkEH+J86ZPQOqUIphS+IJLstUR7IrVQy7ki3H8PKMB3A5w4XjJUn3KW9RayZHdI3GoSw4ljyxLk5JJ50S72QXFYUqaUr2I+yeiCNdwX1PMAqqIVCkiap07pIBB4dw+WuusPC5T6dM9i3L8V07cewojrFmyR8kCwfInsQm0kD2OW0sOr3Fjm9OnYKyqxDBPy44wCMkbvPgkYxyTk6DSdUusssX2ufb4wXJ4+n7aoEi2Uye2Qe40WwWCba1qJqCrgBkj+gbwiVK8SQDnH/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgECAwQFB//EACkQAAICAQMCBQQDAAAAAAAAAAECAxEEABIhBSITFDFBUQYHI2FCgYL/xAAZAQABBQAAAAAAAAAAAAAAAAAEAQIFBgf/xAAkEQABAwMDBAMAAAAAAAAAAAABAgQRAAMhBRIxBkFRYRRx8P/aAAwDAQACEQMRAD8AhaaPOioHbMvoDqrFPtniLcMrURrPMrb1UgiU8qqcufXkAc+x/Wr+V03LEMM9Ryu7bWjiJZ1oA2x4Xi1vn34J1Ylu7SCRPH78Oa0l/wBQ6dp11NlzdAUoxGTH3E7R7MDB8Uss+7IlK8ktQGrQmTBipjumbkgagg6PnjHyZ1GPA8KsT5knsNGro0CTQC3ZHPGsXpuTJk4nisJ5HLN+V8RscMOK7WJ+SP8AP70KNXbm/wDHBO6QD6JmJ7jjxjExIpGnUDJ5cFtuSoGYIB2mCBg9+cEYOY4NDUHWcyKdX8zI0noNpo/0RyNE0X1Xl+Wjx2mMbUweVQTI+4UQ7EkMDS32/wAR6aAvFTFjte6VuAdMiyGWSNd1ktZ0IttYWSVpEqwff3Ua7YNXSkfJTuUDIyRB4nByY8115PuBHLE+Bn4WPNgM0jhBatuZibDfIv4GgDqXWp8jPlkgnkiWzSEk1zfvzrBlyGaSQbqIaxpwlTKjsnbIvuNDNdMbNb63FgEKVznBJMkx5NPatbLUC03xtEDPYe+a/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>These are pretty warm...</div>
-                                                <div class="unlocked">18 Jan 2026</div>
+                                                <div>I think there's one left</div>
+                                                <div class="unlocked">5 Feb 2026</div>
                                             </div>
-                                            <div class="description">Collect 2,500 Stars</div>
+                                            <div class="description">Collect 130 User Coins</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAIDBQYHAf/EACoQAAICAQMDAgUFAAAAAAAAAAECAxEhAAQSBRMxImEGBxRB8DJCUVKR/8QAGAEAAgMAAAAAAAAAAAAAAAAABAYDBQf/xAAmEQABAwMDAwUBAAAAAAAAAAABAgMRAARRBSFhFDFxBhIiMrHB/9oADAMBAAIRAxEAPwBouN/B6QVlXxoSLccZ4i2GVqOhYJKmRpYA7KCeAyzpeQKzdiwR+4e51I9a6a0SfVbeXuw4tiOLD2cGs5Av/aPk5zXGmLzpLjafqqZHg4PmtSOoNtvFlwgY3/cUxLPy3EpXJLUBopZk2MVE8pm8gfnjUFHN225B05kkAk4B+4B8E+16WHf9XFmLZ5E3fverdD7bhhCgfBopu4adkNqBjBBqO+EeovL1FF3e8ljzxM6uUaJWHqI4jOARxOCW/mtX7p/X+kRykSd0I4jjKfR9uJlF+o3ZDZq69jesPE42aWjHuti/z7a4u7lMkavIzEtyNm86XLqw6n3oUqEridsc+aQtR9PNXl4m6W4QvjeOwzG4GOa3TqO/+H39UW7WOZG5J2Yy62Tm0oArVggVgnA1UPmB12LfbhNztEi2u7IHdbakrFM39ghAKmh6h4uiPJ1nM26kd5F5mw1jOld5d1GCx4yLi9Q2Olqs1Ql4lMzB/h7j8ii7LSG7Z0ONr+Y2kbSMGDHNf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHBAj/xAApEAABAwMEAAYCAwAAAAAAAAADAQIEAAURBgcSIRMUMUFRoyIjFWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAACBAADEv/aAAwDAQACEQMRAD8Abbq7ns06G0sBaPOSZXiq5XyPCQSM49J+K5zz/r0oIHfiYI4ippoCuYucLcHd/XUrfMhCSNPKUascjJSf72KsxqBhg6zyMvXXCwNFNjNvxMLIIVdNARz1zj+Qd19dO9qt0GaiDd2SLT5ORF8JzVbI8VCo/l0v4pjHBfn1rzDWnbFkeOTqFRDUjuEX09uy0XYOw8lDC4VhoYb15cJNxHZyS5Djva6SiK72T9PVFavXcUBbdDGWaUUgJCOy0KEQiPRmeuTcY4J85zU4MOEU4xJdDIr1xlYSdfbRhc7D0MLsBWGSnFSrQdwk24V4JDkOA9yxkVU90/d1UI0OEI5BLdDKrFxlISd/bVG0DgJbpgwzTFkGIN2XBQaDRiPx1ydnPNfjGKLrnWeihhgLAyM//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ice Champion</div>
-                                                <div class="unlocked">4 Jan 2026</div>
+                                                <div>Nature's Novice</div>
+                                                <div class="unlocked">5 Feb 2026</div>
                                             </div>
-                                            <div class="description">Collect 65 Ice Shards</div>
+                                            <div class="description">Reach Path of Earth Rank 1</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+222 others...</div>
+                                            <div class="description ellipsis">+224 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            224 / 547 achievements unlocked
+                                            226 / 547 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBAwYE/8QALRAAAgIBAwMCAwkBAAAAAAAAAQIDBBEAEiEFIjETQQZCURQjJDJhcXKRofD/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBv/EACYRAAECBAYCAwEAAAAAAAAAAAECEQADBAUGITFBUXESEyIyYYH/2gAMAwEAAhEDEQA/AAhljuxYBCzLyAdURtIlqJXjkEobBQqc/wBa5qk+0PuDwyL3myGUCJByxJI4H6jn6a1vSemwRyPP1mjcljMXrJQrBowkOTiaZN4+8bB7BngEkFjxX3vEptU30pklaiPiAc1csA+Q5LaFv2irLgKNQ9gARuoqAA4fs5dxnpVmNmQCM+oxO2MkBzj6L5/zVgljpRdxDStyQP8AvGjdu7LV3VbPRekVq88ZkhqKnph08rYjnGDJtGGIUBgD4BHOSszF+47ZJyxJdM4K8YySBlvPOBxjOTkkuGsUVF5mFM2R4p2UkuOieYRKn+ws0AukWjLMRPclM5IVIcqFkU8MDkEH+J86ZPQOqUIphS+IJLstUR7IrVQy7ki3H8PKMB3A5w4XjJUn3KW9RayZHdI3GoSw4ljyxLk5JJ50S72QXFYUqaUr2I+yeiCNdwX1PMAqqIVCkiap07pIBB4dw+WuusPC5T6dM9i3L8V07cewojrFmyR8kCwfInsQm0kD2OW0sOr3Fjm9OnYKyqxDBPy44wCMkbvPgkYxyTk6DSdUusssX2ufb4wXJ4+n7aoEi2Uye2Qe40WwWCba1qJqCrgBkj+gbwiVK8SQDnH/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgECAwQFB//EACkQAAICAQMCBQQDAAAAAAAAAAECAxEEABIhBSITFDFBUQYHI2FCgYL/xAAZAQABBQAAAAAAAAAAAAAAAAAEAQIFBgf/xAAkEQABAwMDBAMAAAAAAAAAAAABAgQRAAMhBRIxBkFRYRRx8P/aAAwDAQACEQMRAD8AhaaPOioHbMvoDqrFPtniLcMrURrPMrb1UgiU8qqcufXkAc+x/Wr+V03LEMM9Ryu7bWjiJZ1oA2x4Xi1vn34J1Ylu7SCRPH78Oa0l/wBQ6dp11NlzdAUoxGTH3E7R7MDB8Uss+7IlK8ktQGrQmTBipjumbkgagg6PnjHyZ1GPA8KsT5knsNGro0CTQC3ZHPGsXpuTJk4nisJ5HLN+V8RscMOK7WJ+SP8AP70KNXbm/wDHBO6QD6JmJ7jjxjExIpGnUDJ5cFtuSoGYIB2mCBg9+cEYOY4NDUHWcyKdX8zI0noNpo/0RyNE0X1Xl+Wjx2mMbUweVQTI+4UQ7EkMDS32/wAR6aAvFTFjte6VuAdMiyGWSNd1ktZ0IttYWSVpEqwff3Ua7YNXSkfJTuUDIyRB4nByY8115PuBHLE+Bn4WPNgM0jhBatuZibDfIv4GgDqXWp8jPlkgnkiWzSEk1zfvzrBlyGaSQbqIaxpwlTKjsnbIvuNDNdMbNb63FgEKVznBJMkx5NPatbLUC03xtEDPYe+a/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>These are pretty warm...</div>
-                                                <div class="unlocked">18 Jan 2026</div>
+                                                <div>I think there's one left</div>
+                                                <div class="unlocked">5 Feb 2026</div>
                                             </div>
-                                            <div class="description">Collect 2,500 Stars</div>
+                                            <div class="description">Collect 130 User Coins</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAIDBQYHAf/EACoQAAICAQMDAgUFAAAAAAAAAAECAxEhAAQSBRMxImEGBxRB8DJCUVKR/8QAGAEAAgMAAAAAAAAAAAAAAAAABAYDBQf/xAAmEQABAwMDAwUBAAAAAAAAAAABAgMRAARRBSFhFDFxBhIiMrHB/9oADAMBAAIRAxEAPwBouN/B6QVlXxoSLccZ4i2GVqOhYJKmRpYA7KCeAyzpeQKzdiwR+4e51I9a6a0SfVbeXuw4tiOLD2cGs5Av/aPk5zXGmLzpLjafqqZHg4PmtSOoNtvFlwgY3/cUxLPy3EpXJLUBopZk2MVE8pm8gfnjUFHN225B05kkAk4B+4B8E+16WHf9XFmLZ5E3fverdD7bhhCgfBopu4adkNqBjBBqO+EeovL1FF3e8ljzxM6uUaJWHqI4jOARxOCW/mtX7p/X+kRykSd0I4jjKfR9uJlF+o3ZDZq69jesPE42aWjHuti/z7a4u7lMkavIzEtyNm86XLqw6n3oUqEridsc+aQtR9PNXl4m6W4QvjeOwzG4GOa3TqO/+H39UW7WOZG5J2Yy62Tm0oArVggVgnA1UPmB12LfbhNztEi2u7IHdbakrFM39ghAKmh6h4uiPJ1nM26kd5F5mw1jOld5d1GCx4yLi9Q2Olqs1Ql4lMzB/h7j8ii7LSG7Z0ONr+Y2kbSMGDHNf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHBAj/xAApEAABAwMEAAYCAwAAAAAAAAADAQIEAAURBgcSIRMUMUFRoyIjFWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAACBAADEv/aAAwDAQACEQMRAD8Abbq7ns06G0sBaPOSZXiq5XyPCQSM49J+K5zz/r0oIHfiYI4ippoCuYucLcHd/XUrfMhCSNPKUascjJSf72KsxqBhg6zyMvXXCwNFNjNvxMLIIVdNARz1zj+Qd19dO9qt0GaiDd2SLT5ORF8JzVbI8VCo/l0v4pjHBfn1rzDWnbFkeOTqFRDUjuEX09uy0XYOw8lDC4VhoYb15cJNxHZyS5Djva6SiK72T9PVFavXcUBbdDGWaUUgJCOy0KEQiPRmeuTcY4J85zU4MOEU4xJdDIr1xlYSdfbRhc7D0MLsBWGSnFSrQdwk24V4JDkOA9yxkVU90/d1UI0OEI5BLdDKrFxlISd/bVG0DgJbpgwzTFkGIN2XBQaDRiPx1ydnPNfjGKLrnWeihhgLAyM//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ice Champion</div>
-                                                <div class="unlocked">4 Jan 2026</div>
+                                                <div>Nature's Novice</div>
+                                                <div class="unlocked">5 Feb 2026</div>
                                             </div>
-                                            <div class="description">Collect 65 Ice Shards</div>
+                                            <div class="description">Reach Path of Earth Rank 1</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+222 others...</div>
+                                            <div class="description ellipsis">+224 others...</div>
                                         </div>
                                     </div>
                                 </div>
