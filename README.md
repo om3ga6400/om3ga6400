@@ -45,7 +45,7 @@
   </a>
 </h3>
 
-<p align="center">My top albums this month</p>
+<p align="center">My top albums (30 days)</p>
  
 <!--https://github.com/teraha-dev/statsfm-to-markdown-->
 <!-- STATSFM START -->
