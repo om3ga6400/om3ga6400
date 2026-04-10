@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 6 Apr 2026
+                                        Last played on 10 Apr 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,7 +85,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            231 / 547 achievements unlocked
+                                            232 / 547 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcBBgIFCP/EAC4QAAIBAwIEBQMEAwAAAAAAAAECAwQFEQASBhMhMRQiI0FRB2FxMjNSgWKRs//EABcBAQADAAAAAAAAAAAAAAAAAAQCBQb/xAAlEQABAwQCAQQDAAAAAAAAAAABAgMRBAUhMQAGExRRkaGx0fD/2gAMAwEAAhEDEQA/ANBLVR3aGGKKGZ6532RxRKCxO0se5AxhT76x8HW0NfTxzUrx1jAvHDIDI7gdCRHDvO3/ACJUfnQuBWMnFdpDLj13/wCEmmle6a9PUqtuSfwRgbLUckKTmbPlDGUYEfv5epPxq17Nfq2irF0jLgSjG4ESAdwTzN0NIwoJLiZJ/Z4ta2grg61M9LtFQCyFUqHJA7+mIi6Y9939btRBWQWymkBU+LErxSR7t2GU4PXA8vYg4B69gdW2sbjZaKjtkq0xuklC8ss9LIgPNA2qTvG0AMVJGPMMhSMHS7vJnhr6taoI1WKqQTFP08zZHzMfbmb8fbReo3+uuFwFPUuhSSDgEHWjrE/fH3S20rdJ5WUwqR98H9KKiSXjG3CWUviV+h9vQl03+L6y+2yopqy2XCOC2svLqFemSXknP7uT12/y+MZ7ZxzTZb1NZJxPSPIlSG3JJGwVlOCp7gjGGI7asUn1Jv7KsclxripOSObH0/Hp6R2Dr9bWXAvNoSoGMEjOAI5DxAjCoxH5zqONbiawTyWmrutbVm81cUDSqahsKQBnyAYVR7+UD86VHFtW8dyeKCpkcxuYzK3eYoiIZG+7FSf9Zyc6OOOT4Fqby7PeLluEJ+TGHEf9YC567fbVSudyNznMr7xIWZ2Z23MzM2SSQAO/wBplptz3r23EseJLYUIxs+0bH9HC0FI/SsOoqnvIVkEHOhO5x8fPP//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Light Champion</div>
+                                                <div class="unlocked">9 Apr 2026</div>
+                                            </div>
+                                            <div class="description">Collect 65 Light Shards</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -99,18 +109,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAKRAAAgICAgEDAQkAAAAAAAAAAQIDEQQhABIFBhNBURQiIyUxUmFxkf/EABkBAAEFAAAAAAAAAAAAAAAAAAQAAwUGB//EACkRAAEDAgQDCQAAAAAAAAAAAAEDBBEAAgUhMVESYbEGExUjQXGRweH/2gAMAwEAAhEDEQA/AOLTJnRUD1mXYB4LFP0niLaZWojgUZZnTsrh2bqgTbOfoo+eXGH4WXOf8bI8fisDRMuTRJH6iwCDX8E/3yVfY2zY3cK98H5rUnOJt21/d3nP1gTHvt1oSWfvkSldktQHChMmDFRPaZtkDhON6dmiQy5c8WGxmEKvkBlRS17Z9ADXwGux9RyinKA94G95WphILAYG97+NaP040y7QM3ygTQJMkiYyyE9KSGJoOFAknMmlnxfmzG5GbM0hI6UNFkNkrdGgTV1RI1v4aH9U4875EskEYyZSFUByoij0Oq6sGgDY+b+OZp7q4sdj70raBPIRZDLJGvayWs8F8PQDguc+MiJ2nWMteetVzEcJbYhaEXRJkgkAxpvvzFbDmeovA5AMbz+VeOuiRNkKFSP9gAYKK1RAFAVvZ4q+oPN4ssX5dkZH2gAK7yydmaq6gCyAAO3+8SZchmkkAaiGscl7y5Udk9ZF+RwBrgLdqpaonfdNumY+gP2iUWiSd3lEyK//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Fire Champion</div>
-                                                <div class="unlocked">1 Apr 2026</div>
-                                            </div>
-                                            <div class="description">Collect 65 Fire Shards</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+229 others...</div>
+                                            <div class="description ellipsis">+230 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 6 Apr 2026
+                                        Last played on 10 Apr 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,7 +160,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            231 / 547 achievements unlocked
+                                            232 / 547 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcBBgIFCP/EAC4QAAIBAwIEBQMEAwAAAAAAAAECAwQFEQASBhMhMRQiI0FRB2FxMjNSgWKRs//EABcBAQADAAAAAAAAAAAAAAAAAAQCBQb/xAAlEQABAwQCAQQDAAAAAAAAAAABAgMRBAUhMQAGExRRkaGx0fD/2gAMAwEAAhEDEQA/ANBLVR3aGGKKGZ6532RxRKCxO0se5AxhT76x8HW0NfTxzUrx1jAvHDIDI7gdCRHDvO3/ACJUfnQuBWMnFdpDLj13/wCEmmle6a9PUqtuSfwRgbLUckKTmbPlDGUYEfv5epPxq17Nfq2irF0jLgSjG4ESAdwTzN0NIwoJLiZJ/Z4ta2grg61M9LtFQCyFUqHJA7+mIi6Y9939btRBWQWymkBU+LErxSR7t2GU4PXA8vYg4B69gdW2sbjZaKjtkq0xuklC8ss9LIgPNA2qTvG0AMVJGPMMhSMHS7vJnhr6taoI1WKqQTFP08zZHzMfbmb8fbReo3+uuFwFPUuhSSDgEHWjrE/fH3S20rdJ5WUwqR98H9KKiSXjG3CWUviV+h9vQl03+L6y+2yopqy2XCOC2svLqFemSXknP7uT12/y+MZ7ZxzTZb1NZJxPSPIlSG3JJGwVlOCp7gjGGI7asUn1Jv7KsclxripOSObH0/Hp6R2Dr9bWXAvNoSoGMEjOAI5DxAjCoxH5zqONbiawTyWmrutbVm81cUDSqahsKQBnyAYVR7+UD86VHFtW8dyeKCpkcxuYzK3eYoiIZG+7FSf9Zyc6OOOT4Fqby7PeLluEJ+TGHEf9YC567fbVSudyNznMr7xIWZ2Z23MzM2SSQAO/wBplptz3r23EseJLYUIxs+0bH9HC0FI/SsOoqnvIVkEHOhO5x8fPP//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Light Champion</div>
+                                                <div class="unlocked">9 Apr 2026</div>
+                                            </div>
+                                            <div class="description">Collect 65 Light Shards</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -174,18 +184,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAKRAAAgICAgEDAQkAAAAAAAAAAQIDEQQhABIFBhNBURQiIyUxUmFxkf/EABkBAAEFAAAAAAAAAAAAAAAAAAQAAwUGB//EACkRAAEDAgQDCQAAAAAAAAAAAAEDBBEAAgUhMVESYbEGExUjQXGRweH/2gAMAwEAAhEDEQA/AOLTJnRUD1mXYB4LFP0niLaZWojgUZZnTsrh2bqgTbOfoo+eXGH4WXOf8bI8fisDRMuTRJH6iwCDX8E/3yVfY2zY3cK98H5rUnOJt21/d3nP1gTHvt1oSWfvkSldktQHChMmDFRPaZtkDhON6dmiQy5c8WGxmEKvkBlRS17Z9ADXwGux9RyinKA94G95WphILAYG97+NaP040y7QM3ygTQJMkiYyyE9KSGJoOFAknMmlnxfmzG5GbM0hI6UNFkNkrdGgTV1RI1v4aH9U4875EskEYyZSFUByoij0Oq6sGgDY+b+OZp7q4sdj70raBPIRZDLJGvayWs8F8PQDguc+MiJ2nWMteetVzEcJbYhaEXRJkgkAxpvvzFbDmeovA5AMbz+VeOuiRNkKFSP9gAYKK1RAFAVvZ4q+oPN4ssX5dkZH2gAK7yydmaq6gCyAAO3+8SZchmkkAaiGscl7y5Udk9ZF+RwBrgLdqpaonfdNumY+gP2iUWiSd3lEyK//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Fire Champion</div>
-                                                <div class="unlocked">1 Apr 2026</div>
-                                            </div>
-                                            <div class="description">Collect 65 Fire Shards</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+229 others...</div>
+                                            <div class="description ellipsis">+230 others...</div>
                                         </div>
                                     </div>
                                 </div>
