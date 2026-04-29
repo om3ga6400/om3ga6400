@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            70 games
+                            71 games
                         </div>
                     </section>
                     <section>
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 27 Apr 2026
+                                        Last played on 29 Apr 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            232 / 547 achievements unlocked
+                                            235 / 547 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcBBgIFCP/EAC4QAAIBAwIEBQMEAwAAAAAAAAECAwQFEQASBhMhMRQiI0FRB2FxMjNSgWKRs//EABcBAQADAAAAAAAAAAAAAAAAAAQCBQb/xAAlEQABAwQCAQQDAAAAAAAAAAABAgMRBAUhMQAGExRRkaGx0fD/2gAMAwEAAhEDEQA/ANBLVR3aGGKKGZ6532RxRKCxO0se5AxhT76x8HW0NfTxzUrx1jAvHDIDI7gdCRHDvO3/ACJUfnQuBWMnFdpDLj13/wCEmmle6a9PUqtuSfwRgbLUckKTmbPlDGUYEfv5epPxq17Nfq2irF0jLgSjG4ESAdwTzN0NIwoJLiZJ/Z4ta2grg61M9LtFQCyFUqHJA7+mIi6Y9939btRBWQWymkBU+LErxSR7t2GU4PXA8vYg4B69gdW2sbjZaKjtkq0xuklC8ss9LIgPNA2qTvG0AMVJGPMMhSMHS7vJnhr6taoI1WKqQTFP08zZHzMfbmb8fbReo3+uuFwFPUuhSSDgEHWjrE/fH3S20rdJ5WUwqR98H9KKiSXjG3CWUviV+h9vQl03+L6y+2yopqy2XCOC2svLqFemSXknP7uT12/y+MZ7ZxzTZb1NZJxPSPIlSG3JJGwVlOCp7gjGGI7asUn1Jv7KsclxripOSObH0/Hp6R2Dr9bWXAvNoSoGMEjOAI5DxAjCoxH5zqONbiawTyWmrutbVm81cUDSqahsKQBnyAYVR7+UD86VHFtW8dyeKCpkcxuYzK3eYoiIZG+7FSf9Zyc6OOOT4Fqby7PeLluEJ+TGHEf9YC567fbVSudyNznMr7xIWZ2Z23MzM2SSQAO/wBplptz3r23EseJLYUIxs+0bH9HC0FI/SsOoqnvIVkEHOhO5x8fPP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEAAURBxIhMVGjBhUiQRMUI3H/xAAWAQEBAQAAAAAAAAAAAAAAAAAABAH/xAAYEQACAwAAAAAAAAAAAAAAAAACAwABEf/aAAwDAQACEQMRAD8AvdSNRfaRamYlqTLlSQ6tRckFoNBGwEDCVZzvHbpUizq7dGn2nR6ehlSDnBuCufFSrVJxxy6WEutlCgzKH+/JmpGpWuICypQtYkO3OiPau3R2Q48fT0MKWc4FwVx4qrdN9RvdhdWZlqTElRg0tJbkF0OhZWMHKU4xsPfrXDqrtLHFt3S/FpsuKLMXp9fJ6sU4iLLhixEdqTd7uEm4v2tyXIU+tKZQBV9D+PFC0DKehxYUQGW43JaU5yGQ6HAsIzxuTjGwd+tZMzmnX22hcCCs4z+j08tHJIy2oWwRHLjOirJcJNvfurkOQphakxgSPsf24pE9OaafcaNwJKDjIg9fLWsR6HKhywmW4uS4pvn8IaDYQF443Kznee2MUUkhLbhjBIcqf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Light Champion</div>
-                                                <div class="unlocked">9 Apr 2026</div>
+                                                <div>Sapling Sage</div>
+                                                <div class="unlocked">28 Apr 2026</div>
                                             </div>
-                                            <div class="description">Collect 65 Light Shards</div>
+                                            <div class="description">Reach Path of Earth Rank 3</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYF/8QAJxAAAgEDAwQCAwEBAAAAAAAAAQIDBBESAAUhBhMxQSJhMlGhYvD/xAAZAQACAwEAAAAAAAAAAAAAAAACBQMEBgf/xAAmEQABAgUDBAMBAAAAAAAAAAABAgQDESExQQAFEgYTcYEUYeHw/9oADAMBAAIRAxEAPwCURlrVCJxN6B/7xrb2Tpiv3GKOojRFiIuskrlVcftQAWI+za/q451J03cllMQXF5UaNWPhSVIufr9/V9IPRfWlbX0Mcm4wmmp2AxqljWzG+JPJNkB4yxt9gC+sRucZzDROBL7/ADXQ9zfKbrCAZAidP6msDeNnn2953cZpG5jlmiLGOJsb/K6ggcj5eBcerkZzMKJSknM3sfekrdWrDu9ZGoiimlEcaM8fwqMA2fnjIXVSL+AdFe5wS0dSYJI17sReJsTcDFyAAT+lx01gQwpjBdAk8xXInWxHg0uKaQdPdRR3e5uNtcyPGqTY8aXHu9jXU/tle/elhnqAGmTBWcXUG4Nm/wAm1j/eL6S976h2yrpTtOy0dVRxUsMdNNLNYyElMVwjF8iwYKXufzBxNwdDwkWlAYAPIT796o9t6neh3GkqIZ7PTvLLCJKJZMZHBGZPcF2ANgf5qs7bqWruQ52OSAfMrjFaZljRbg37yklQ5Gl6yla+fGkjfuo9xNLT7bukEVJLSFalUCmCWwBF8STxzfINbz9jRj1Bur1W4ySQVTFmeR25v+TEjm3Jtbkca1N065mr7pVyd/CRZRam7ZyHg3Eh5PIJN/J41GiRalLmyyDyRomEBbaAIRlxnykLcjTIBt61Exap+Sp0pBTEA4gzum+Cc+9f/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDEQQABRITISJBBjEUMlH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwQG/8QAJREAAQMCBAcBAAAAAAAAAAAAAQIDMQBhERJRsQQFBhMhcdHw/9oADAMBAAIRAxEAPwAAXXISrqQetUJLUiE/YNHXZtGAc6Ux/k4mPIvEATgnqOw5KopgRSjkSLvkB6OinxfaMT5Bvs+3vlzxMisUlHSfqFW4nx4AC/2AVmHGrN6o7zthtxTclMx63ri2uneJUyl4+Eqib20FL7y3K5Hck0NXh1x0+7c+tGflO0Yfx3fYMBcueUuqs8xESdMs3EeIQ3X7EMyjjdG9C93wPwZRGcnEyJG5AiAEdN1HIqbYk2p5Amq4kexo1zphxxLcFUR63o707xKWVPDylMza2hpFxtyjedG3GOLKZAVQywiTxP2hFglfY7iiAf7bLtebgGVueFt9MCWYQMzK3Yqqxh1EIPlZjJ70aF6z/rLjpY7yH3qEWSwkQXZJs3q7jGYEIVlJsDuDP6TW/thWBUnEC5GxEfNBhoe6ZuB1l44W30oBVjAyuzdyyshdhMB40ZCO9mjWlrJ3JI53bbo4cVnAVzFCI/EfSAWSF9nubJJ/lApsljI4Bog2K1PrLkJZ7SD3o0xlAC1ZiLAbAR+gU7YTiUjAG5O5M/dTj//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Deadlocked!</div>
-                                                <div class="unlocked">1 Apr 2026</div>
+                                                <div>The Infinity Gauntlet</div>
+                                                <div class="unlocked">28 Apr 2026</div>
                                             </div>
-                                            <div class="description">Complete "Deadlocked" in Normal mode</div>
+                                            <div class="description">Complete 5 Gauntlets</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+230 others...</div>
+                                            <div class="description ellipsis">+233 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 27 Apr 2026
+                                        Last played on 29 Apr 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            232 / 547 achievements unlocked
+                                            235 / 547 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcBBgIFCP/EAC4QAAIBAwIEBQMEAwAAAAAAAAECAwQFEQASBhMhMRQiI0FRB2FxMjNSgWKRs//EABcBAQADAAAAAAAAAAAAAAAAAAQCBQb/xAAlEQABAwQCAQQDAAAAAAAAAAABAgMRBAUhMQAGExRRkaGx0fD/2gAMAwEAAhEDEQA/ANBLVR3aGGKKGZ6532RxRKCxO0se5AxhT76x8HW0NfTxzUrx1jAvHDIDI7gdCRHDvO3/ACJUfnQuBWMnFdpDLj13/wCEmmle6a9PUqtuSfwRgbLUckKTmbPlDGUYEfv5epPxq17Nfq2irF0jLgSjG4ESAdwTzN0NIwoJLiZJ/Z4ta2grg61M9LtFQCyFUqHJA7+mIi6Y9939btRBWQWymkBU+LErxSR7t2GU4PXA8vYg4B69gdW2sbjZaKjtkq0xuklC8ss9LIgPNA2qTvG0AMVJGPMMhSMHS7vJnhr6taoI1WKqQTFP08zZHzMfbmb8fbReo3+uuFwFPUuhSSDgEHWjrE/fH3S20rdJ5WUwqR98H9KKiSXjG3CWUviV+h9vQl03+L6y+2yopqy2XCOC2svLqFemSXknP7uT12/y+MZ7ZxzTZb1NZJxPSPIlSG3JJGwVlOCp7gjGGI7asUn1Jv7KsclxripOSObH0/Hp6R2Dr9bWXAvNoSoGMEjOAI5DxAjCoxH5zqONbiawTyWmrutbVm81cUDSqahsKQBnyAYVR7+UD86VHFtW8dyeKCpkcxuYzK3eYoiIZG+7FSf9Zyc6OOOT4Fqby7PeLluEJ+TGHEf9YC567fbVSudyNznMr7xIWZ2Z23MzM2SSQAO/wBplptz3r23EseJLYUIxs+0bH9HC0FI/SsOoqnvIVkEHOhO5x8fPP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEAAURBxIhMVGjBhUiQRMUI3H/xAAWAQEBAQAAAAAAAAAAAAAAAAAABAH/xAAYEQACAwAAAAAAAAAAAAAAAAACAwABEf/aAAwDAQACEQMRAD8AvdSNRfaRamYlqTLlSQ6tRckFoNBGwEDCVZzvHbpUizq7dGn2nR6ehlSDnBuCufFSrVJxxy6WEutlCgzKH+/JmpGpWuICypQtYkO3OiPau3R2Q48fT0MKWc4FwVx4qrdN9RvdhdWZlqTElRg0tJbkF0OhZWMHKU4xsPfrXDqrtLHFt3S/FpsuKLMXp9fJ6sU4iLLhixEdqTd7uEm4v2tyXIU+tKZQBV9D+PFC0DKehxYUQGW43JaU5yGQ6HAsIzxuTjGwd+tZMzmnX22hcCCs4z+j08tHJIy2oWwRHLjOirJcJNvfurkOQphakxgSPsf24pE9OaafcaNwJKDjIg9fLWsR6HKhywmW4uS4pvn8IaDYQF443Kznee2MUUkhLbhjBIcqf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Light Champion</div>
-                                                <div class="unlocked">9 Apr 2026</div>
+                                                <div>Sapling Sage</div>
+                                                <div class="unlocked">28 Apr 2026</div>
                                             </div>
-                                            <div class="description">Collect 65 Light Shards</div>
+                                            <div class="description">Reach Path of Earth Rank 3</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYF/8QAJxAAAgEDAwQCAwEBAAAAAAAAAQIDBBESAAUhBhMxQSJhMlGhYvD/xAAZAQACAwEAAAAAAAAAAAAAAAACBQMEBgf/xAAmEQABAgUDBAMBAAAAAAAAAAABAgQDESExQQAFEgYTcYEUYeHw/9oADAMBAAIRAxEAPwCURlrVCJxN6B/7xrb2Tpiv3GKOojRFiIuskrlVcftQAWI+za/q451J03cllMQXF5UaNWPhSVIufr9/V9IPRfWlbX0Mcm4wmmp2AxqljWzG+JPJNkB4yxt9gC+sRucZzDROBL7/ADXQ9zfKbrCAZAidP6msDeNnn2953cZpG5jlmiLGOJsb/K6ggcj5eBcerkZzMKJSknM3sfekrdWrDu9ZGoiimlEcaM8fwqMA2fnjIXVSL+AdFe5wS0dSYJI17sReJsTcDFyAAT+lx01gQwpjBdAk8xXInWxHg0uKaQdPdRR3e5uNtcyPGqTY8aXHu9jXU/tle/elhnqAGmTBWcXUG4Nm/wAm1j/eL6S976h2yrpTtOy0dVRxUsMdNNLNYyElMVwjF8iwYKXufzBxNwdDwkWlAYAPIT796o9t6neh3GkqIZ7PTvLLCJKJZMZHBGZPcF2ANgf5qs7bqWruQ52OSAfMrjFaZljRbg37yklQ5Gl6yla+fGkjfuo9xNLT7bukEVJLSFalUCmCWwBF8STxzfINbz9jRj1Bur1W4ySQVTFmeR25v+TEjm3Jtbkca1N065mr7pVyd/CRZRam7ZyHg3Eh5PIJN/J41GiRalLmyyDyRomEBbaAIRlxnykLcjTIBt61Exap+Sp0pBTEA4gzum+Cc+9f/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDEQQABRITISJBBjEUMlH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwQG/8QAJREAAQMCBAcBAAAAAAAAAAAAAQIDMQBhERJRsQQFBhMhcdHw/9oADAMBAAIRAxEAPwAAXXISrqQetUJLUiE/YNHXZtGAc6Ux/k4mPIvEATgnqOw5KopgRSjkSLvkB6OinxfaMT5Bvs+3vlzxMisUlHSfqFW4nx4AC/2AVmHGrN6o7zthtxTclMx63ri2uneJUyl4+Eqib20FL7y3K5Hck0NXh1x0+7c+tGflO0Yfx3fYMBcueUuqs8xESdMs3EeIQ3X7EMyjjdG9C93wPwZRGcnEyJG5AiAEdN1HIqbYk2p5Amq4kexo1zphxxLcFUR63o707xKWVPDylMza2hpFxtyjedG3GOLKZAVQywiTxP2hFglfY7iiAf7bLtebgGVueFt9MCWYQMzK3Yqqxh1EIPlZjJ70aF6z/rLjpY7yH3qEWSwkQXZJs3q7jGYEIVlJsDuDP6TW/thWBUnEC5GxEfNBhoe6ZuB1l44W30oBVjAyuzdyyshdhMB40ZCO9mjWlrJ3JI53bbo4cVnAVzFCI/EfSAWSF9nubJJ/lApsljI4Bog2K1PrLkJZ7SD3o0xlAC1ZiLAbAR+gU7YTiUjAG5O5M/dTj//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Deadlocked!</div>
-                                                <div class="unlocked">1 Apr 2026</div>
+                                                <div>The Infinity Gauntlet</div>
+                                                <div class="unlocked">28 Apr 2026</div>
                                             </div>
-                                            <div class="description">Complete "Deadlocked" in Normal mode</div>
+                                            <div class="description">Complete 5 Gauntlets</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+230 others...</div>
+                                            <div class="description ellipsis">+233 others...</div>
                                         </div>
                                     </div>
                                 </div>
