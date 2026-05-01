@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 30 Apr 2026
+                                        Last played on 1 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -127,15 +127,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABggDBQcEAf/EAC0QAAIBAwQBAwMDBQEAAAAAAAECAwAEBQYREiExBxNBFCJRF2FxJCUmMlKR/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEAAEF/8QAIBEAAgICAgMBAQAAAAAAAAAAAQIAAxIhBBEiMTITQ//aAAwDAQACEQMRAD8AXIcSigqQQa6YLa5u+TQRM3EfFeWkAurmJJHCBjtWtaZwcGMt91KyFx/NYEiGiZQI0tpk5ETC/jeM7fxRKPTu3DDjz47fmjnH2schlPFU2HwNqvkMQjVN18Uiy1ljCuEyj9O4OfXPj/NUepdJJjbRTZK7vyPW+9bmTEBx3XuqbI2kaxK4Cv8AcfNau5jMgyi9y2l3boss8LKN/kVACBzOxJIrZ87iYcnae0wWPbvxWR5WySwv5IopA3GnkkwLUxl7pPTZyv8AVNMuyn4o/h/tyrEOUnx5oW9OrxYbNofbYEk/NHjFTEJQg6/NNXoe46vpZ7yIiRlVyH6Oxrgkyc4lYezKrL4FXeldPTawnla0uRai3+4q4PfdbjbY+zitoYvpLZyiBWkMY7IFRcjkoseUzi5DK3HJWaGUuTsBVhGzSK3JXUAcuzTAiysgdmsrYr/2Ih1WL630tNpt3ys10s0M8jcYkB6FDx+SjHqYV4QUnl+rcwgMvxvQVq3SxtYXvveUbdnetFtmSSL31Qdjx80Ka7vlbFSQPG33fvV7dEaiX8oP6N3NmzKe9zV5G7tl7FfdfiZBuvLo0KabycdmggbyxoohIbM49h4Mgoh86kdn1qOFgbCG2sbU28EKM0Kk8EAJ6+as0hUhgFVUHZJIrmt1eTBW0QYJI1uvFh8dUo/qviNX6HeO8vM9M8F5cuEjR2Gw8ivMNIZvKVZnHUcB4FWMEBHQ9EgioLyxiuUVLiGF1AOyuoI8UmPp1a6t17kL20xmduITbxrIVd2/NOXpu1uLDC2lrdSia6SIKzk+SBQtSFcYTgtPW4omqi0OsshHHIyRqxARTsB3+KodUbnFuzEnr5q/1gv+c5Lf4c7/APtCOpMpHLC9qPNev/PcmQnLcGbWRI7tZH8CjezykEyoV23XwfxQIe/tcVLDO0PUe9Irb89GD62YxXpt6gyYeWaLOTSSQsoEZZq3HJWOI1JYWr5GCOaNQJIxJsfIpFLbKSMU9+TdEO+9GC+p2aVIkF2ERAFQfsKXfQ120jk5CjRjd4TC4XCSyT4y2ihklXi3AAHYVkXqh6ifVxCywckkc8crLIVbsVkf6o5xZSUvAWA7FCeRzMks0txFJ90vbH9/mgp47VHt5x719CEd3lER2knblIf9mJ7JoLydxHcXhkjHVRzXLzDaQnv5qEbL9qjc1Va+Y6EX13sT/9k=" alt="" />
+                            <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
-                                <div class="name">Rusty's Retirement</div>
+                                <div class="name">Geometry Dash</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie, Simulation, Strategy
+                                        Action, Indie
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        6 hours played
+                                        4.26k hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 30 Apr 2026
+                                        Last played on 1 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 71 achievements unlocked
+                                            235 / 547 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUDBwH/xAAtEAAABAQGAgECBwAAAAAAAAABAgMFBAYREgATFCEiMRUjBzJRFzM0NUFhgf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAESEx/9oADAMBAAIRAxEAPwDo0yTbMDulHOsqOekYoazJXyCKam6hTcThcW0wGDfuuDUjuqPy956Jm1L0NWRoyXCGTmVA+5ALdUSF7rTFiRHiOGXohY7aDXJK9uiDOKtpqGMB/wCLz3Kffqu22DSTMijLrxMi7/4WWTZVY8IXP1fOz8sBvJafbretesPnLPVUtJ0dPwjjGWJlL9G6ZwRaIBXOywACbnAwloJxHalcWmmfX2VZkyp0evIso7rRelIlpuFS8CFEx7jGKG3VMRYGNYG1uaH5WYvONnt0sUMGdDTb2G4dmuMNNw2pjX5tdzog3xro0g7Sw3364NQCOovsBPoLy2np13TfbAPcgUQvPj0SM0ls8gzInkPsFnZ0JW+l5zKl5lqX6RAe8AJ+ao17kxplsxMhwYxVuSuA2ZnKAcN6gAUAPuP+Y7NMiB5EnyZZqeIfNlZ702tjbqePyUwTT4BU6l5zAGwBb2NQwMmSaZNj0UnGZuDCtXwjh7R19KAv6yBcnYahef1dhg8ZeMUg5NTl+Qzt7mFHaPEMiErWyxSpuYCIDUogO9MIvkVsaZgZ3OUZd902qglp4Kpi5lBKobmYQIFCAI7j/XeI8rvUskgolzgkRjGWGt8tGCZQnj7hEqPAQuUvNtx+mm+G3xhLqsyTrL83NyVrA15+mj7v3HMTMmb1iIGTyzAIbgN3eLdZxW//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAoEAABAwMDAwQDAQAAAAAAAAABAgMEAAURBxIhMVGjBhUiQRMUI3H/xAAWAQEBAQAAAAAAAAAAAAAAAAAABAH/xAAYEQACAwAAAAAAAAAAAAAAAAACAwABEf/aAAwDAQACEQMRAD8AvdSNRfaRamYlqTLlSQ6tRckFoNBGwEDCVZzvHbpUizq7dGn2nR6ehlSDnBuCufFSrVJxxy6WEutlCgzKH+/JmpGpWuICypQtYkO3OiPau3R2Q48fT0MKWc4FwVx4qrdN9RvdhdWZlqTElRg0tJbkF0OhZWMHKU4xsPfrXDqrtLHFt3S/FpsuKLMXp9fJ6sU4iLLhixEdqTd7uEm4v2tyXIU+tKZQBV9D+PFC0DKehxYUQGW43JaU5yGQ6HAsIzxuTjGwd+tZMzmnX22hcCCs4z+j08tHJIy2oWwRHLjOirJcJNvfurkOQphakxgSPsf24pE9OaafcaNwJKDjIg9fLWsR6HKhywmW4uS4pvn8IaDYQF443Kznee2MUUkhLbhjBIcqf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>This is nice!</div>
-                                                <div class="unlocked">29 Apr 2026</div>
+                                                <div>Sapling Sage</div>
+                                                <div class="unlocked">28 Apr 2026</div>
                                             </div>
-                                            <div class="description">Spin the cog once</div>
+                                            <div class="description">Reach Path of Earth Rank 3</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QALRAAAQMCBQMCBQUAAAAAAAAAAQIEBQMRAAYSEyEHIjEUQRUjMmGBFjNCUnH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAIE/8QAIhEAAgIABQUBAAAAAAAAAAAAAQIAAxESIaGxMVFhwfDx/9oADAMBAAIRAxEAPwA0luo2Yn01JZeqK/S02nbNBJCHlu3WrnTp+ke5/l9sVUP17aOY6lWk5IsXarhbf06qmixIHcEWNxY/nALMTlPqbJuZiXZlFBWj0bXc5bcBK+9ISV6igHkcYdEIyas60fF5wrpXKS+v0jPbtbaBUvvRx9Ok82wV7suqrvxoY9VIK4u235JYbPTqZjqL6NkRWa1b6F7QTexIPBAPkHBBlyckXky3oOHGukvVdOhIvZJPsMBufsjZUhY59malW+AydHRaUtUcbVylH7V7G4Onxxe/ti16eVH1WUYKlmPoHp17jbdFXRwq3cODcWP5xEfNKOmU+IkaNqUhVK7AVdOj72HOHbl4ss4z8bmGrXAdRO5tNNJ+RuJKD38BWoJv4NsJDNeXa3TJzThp+rvRNW/on1gnfsApfYkqKdKlgcnnyMcoc0qfa2fGlS9k7ZNvzhrKhaB3mhbBh975mleojCMlcnv2c3VFKPqaNxVlKtZaSOE8+QMLLovI15Xq5mh46UVVKnprn/KKx7ce2Fi1dv5aaowsBWMjL1r6GxApXsnUe5Xb9IJ8+2NBdKsjyOUGsYyc/OpttzVX7U31FR8An+1sEKRWeuJhWWAjKJ//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDEQQABRITISJBBjEUMlH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwQG/8QAJREAAQMCBAcBAAAAAAAAAAAAAQIDMQBhERJRsQQFBhMhcdHw/9oADAMBAAIRAxEAPwAAXXISrqQetUJLUiE/YNHXZtGAc6Ux/k4mPIvEATgnqOw5KopgRSjkSLvkB6OinxfaMT5Bvs+3vlzxMisUlHSfqFW4nx4AC/2AVmHGrN6o7zthtxTclMx63ri2uneJUyl4+Eqib20FL7y3K5Hck0NXh1x0+7c+tGflO0Yfx3fYMBcueUuqs8xESdMs3EeIQ3X7EMyjjdG9C93wPwZRGcnEyJG5AiAEdN1HIqbYk2p5Amq4kexo1zphxxLcFUR63o707xKWVPDylMza2hpFxtyjedG3GOLKZAVQywiTxP2hFglfY7iiAf7bLtebgGVueFt9MCWYQMzK3Yqqxh1EIPlZjJ70aF6z/rLjpY7yH3qEWSwkQXZJs3q7jGYEIVlJsDuDP6TW/thWBUnEC5GxEfNBhoe6ZuB1l44W30oBVjAyuzdyyshdhMB40ZCO9mjWlrJ3JI53bbo4cVnAVzFCI/EfSAWSF9nubJJ/lApsljI4Bog2K1PrLkJZ7SD3o0xlAC1ZiLAbAR+gU7YTiUjAG5O5M/dTj//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Haiku's Helping Hand</div>
-                                                <div class="unlocked">29 Apr 2026</div>
+                                                <div>The Infinity Gauntlet</div>
+                                                <div class="unlocked">28 Apr 2026</div>
                                             </div>
-                                            <div class="description">Build Haiku's House</div>
+                                            <div class="description">Complete 5 Gauntlets</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+233 others...</div>
                                         </div>
                                     </div>
                                 </div>
