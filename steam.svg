@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 6 May 2026
+                                        Last played on 7 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,7 +85,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            235 / 547 achievements unlocked
+                                            236 / 547 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBwgE/8QALhAAAgECBQMCAwkAAAAAAAAAAQIDBBEABRITIQYxQQdRIjKBFBUjJGFxocHT/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAAL/xAAnEQABAgUDBAIDAAAAAAAAAAABAgMABAURIQYxQRJxgaEUImHR8f/aAAwDAQACEQMRAD8ABNPFnFPoX4KtflU97/2Mc2VLLLXqKeCoqZadvxxTJu7VxwGC3tfte45IHPNhEDSbe5DGxm0SEMJAgQgAfuT8QPHtht9QYeoafprM+l+nqbLPs2YzlqmOfbjlkiATaeJnIUhQmhgLldINgGvivrVdVLvfFllWI3x6zxzEpI09DigHeQbeLfv1A2up6j8zXPSVqw69LbkJi2yPD3BKnsACBckdgb4nWaLKKQEh2nk5KuhRgbXAZSLr37HDD0fQ5jlvS2SLLWQ1Gb0YiYEOsplZGk0iO5AlMSugBB0kx6QbAHCNV0WY5PQNTZzUtWV0k71W5tPEoWRyQqhwptdXNrAAvYX5wJS68+/NoYcWFBWLYFu1vcdOSDPQ4QbFJx+Rj+eIEdDNJmWeU1DNUELLNGpa3yhjpa30I+oGNLPLShoo61UKzEldaBlLAXtz5sDb3scY7y3MZMrqkngJ3R7Gx7gix8EEAg+4w+z+q+ZVC06VipMsZY6GhSzEoVufBtckcDnCLWGnanOTodkwFBQzkAg7c+Iey6JZTfS7gjaLyqc6RqhZBRwMqcKWF3A/Q+MVb631g+8KN6Z9Bamj588tIbfxhMHqJmVim5OdPAu8f+eAeedRVGelmqixkJUlnbUbKCFAsAAACew84H07peqylRbdfACU3v8AYRnG5VLZ6N+0f//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>I'm Listening</div>
+                                                <div class="unlocked">7 May 2026</div>
+                                            </div>
+                                            <div class="description">Claim 10 List rewards</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -99,18 +109,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDEQQABRITISJBBjEUMlH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwQG/8QAJREAAQMCBAcBAAAAAAAAAAAAAQIDMQBhERJRsQQFBhMhcdHw/9oADAMBAAIRAxEAPwAAXXISrqQetUJLUiE/YNHXZtGAc6Ux/k4mPIvEATgnqOw5KopgRSjkSLvkB6OinxfaMT5Bvs+3vlzxMisUlHSfqFW4nx4AC/2AVmHGrN6o7zthtxTclMx63ri2uneJUyl4+Eqib20FL7y3K5Hck0NXh1x0+7c+tGflO0Yfx3fYMBcueUuqs8xESdMs3EeIQ3X7EMyjjdG9C93wPwZRGcnEyJG5AiAEdN1HIqbYk2p5Amq4kexo1zphxxLcFUR63o707xKWVPDylMza2hpFxtyjedG3GOLKZAVQywiTxP2hFglfY7iiAf7bLtebgGVueFt9MCWYQMzK3Yqqxh1EIPlZjJ70aF6z/rLjpY7yH3qEWSwkQXZJs3q7jGYEIVlJsDuDP6TW/thWBUnEC5GxEfNBhoe6ZuB1l44W30oBVjAyuzdyyshdhMB40ZCO9mjWlrJ3JI53bbo4cVnAVzFCI/EfSAWSF9nubJJ/lApsljI4Bog2K1PrLkJZ7SD3o0xlAC1ZiLAbAR+gU7YTiUjAG5O5M/dTj//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>The Infinity Gauntlet</div>
-                                                <div class="unlocked">28 Apr 2026</div>
-                                            </div>
-                                            <div class="description">Complete 5 Gauntlets</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+233 others...</div>
+                                            <div class="description ellipsis">+234 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 6 May 2026
+                                        Last played on 7 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,7 +160,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            235 / 547 achievements unlocked
+                                            236 / 547 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBwgE/8QALhAAAgECBQMCAwkAAAAAAAAAAQIDBBEABRITIQYxQQdRIjKBFBUjJGFxocHT/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAAL/xAAnEQABAgUDBAIDAAAAAAAAAAABAgMABAURIQYxQRJxgaEUImHR8f/aAAwDAQACEQMRAD8ABNPFnFPoX4KtflU97/2Mc2VLLLXqKeCoqZadvxxTJu7VxwGC3tfte45IHPNhEDSbe5DGxm0SEMJAgQgAfuT8QPHtht9QYeoafprM+l+nqbLPs2YzlqmOfbjlkiATaeJnIUhQmhgLldINgGvivrVdVLvfFllWI3x6zxzEpI09DigHeQbeLfv1A2up6j8zXPSVqw69LbkJi2yPD3BKnsACBckdgb4nWaLKKQEh2nk5KuhRgbXAZSLr37HDD0fQ5jlvS2SLLWQ1Gb0YiYEOsplZGk0iO5AlMSugBB0kx6QbAHCNV0WY5PQNTZzUtWV0k71W5tPEoWRyQqhwptdXNrAAvYX5wJS68+/NoYcWFBWLYFu1vcdOSDPQ4QbFJx+Rj+eIEdDNJmWeU1DNUELLNGpa3yhjpa30I+oGNLPLShoo61UKzEldaBlLAXtz5sDb3scY7y3MZMrqkngJ3R7Gx7gix8EEAg+4w+z+q+ZVC06VipMsZY6GhSzEoVufBtckcDnCLWGnanOTodkwFBQzkAg7c+Iey6JZTfS7gjaLyqc6RqhZBRwMqcKWF3A/Q+MVb631g+8KN6Z9Bamj588tIbfxhMHqJmVim5OdPAu8f+eAeedRVGelmqixkJUlnbUbKCFAsAAACew84H07peqylRbdfACU3v8AYRnG5VLZ6N+0f//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>I'm Listening</div>
+                                                <div class="unlocked">7 May 2026</div>
+                                            </div>
+                                            <div class="description">Claim 10 List rewards</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -174,18 +184,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDEQQABRITISJBBjEUMlH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwQG/8QAJREAAQMCBAcBAAAAAAAAAAAAAQIDMQBhERJRsQQFBhMhcdHw/9oADAMBAAIRAxEAPwAAXXISrqQetUJLUiE/YNHXZtGAc6Ux/k4mPIvEATgnqOw5KopgRSjkSLvkB6OinxfaMT5Bvs+3vlzxMisUlHSfqFW4nx4AC/2AVmHGrN6o7zthtxTclMx63ri2uneJUyl4+Eqib20FL7y3K5Hck0NXh1x0+7c+tGflO0Yfx3fYMBcueUuqs8xESdMs3EeIQ3X7EMyjjdG9C93wPwZRGcnEyJG5AiAEdN1HIqbYk2p5Amq4kexo1zphxxLcFUR63o707xKWVPDylMza2hpFxtyjedG3GOLKZAVQywiTxP2hFglfY7iiAf7bLtebgGVueFt9MCWYQMzK3Yqqxh1EIPlZjJ70aF6z/rLjpY7yH3qEWSwkQXZJs3q7jGYEIVlJsDuDP6TW/thWBUnEC5GxEfNBhoe6ZuB1l44W30oBVjAyuzdyyshdhMB40ZCO9mjWlrJ3JI53bbo4cVnAVzFCI/EfSAWSF9nubJJ/lApsljI4Bog2K1PrLkJZ7SD3o0xlAC1ZiLAbAR+gU7YTiUjAG5O5M/dTj//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>The Infinity Gauntlet</div>
-                                                <div class="unlocked">28 Apr 2026</div>
-                                            </div>
-                                            <div class="description">Complete 5 Gauntlets</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+233 others...</div>
+                                            <div class="description ellipsis">+234 others...</div>
                                         </div>
                                     </div>
                                 </div>
