@@ -1,10 +1,3 @@
-<!-- Thanks to vaaski for the SVG frame and inspiration -->
-<h3 align="center">
-  <a href="https://github.com/vaaski/vaaski">
-    <img src="https://om3ga6400.github.io/assets/v2/banner.svg">
-  </a>
-</h3>
-
 <!-- Bunch of shields.io and shields.io style badges -->
 <h3 align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter/">
