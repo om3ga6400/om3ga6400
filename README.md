@@ -17,3 +17,4 @@
 [![](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=vscodium)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=spotify)](https://skillicons.dev)
